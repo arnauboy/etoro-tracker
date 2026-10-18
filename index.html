@@ -1,0 +1,87 @@
+<!doctype html>
+<html lang="es"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Arnau vs Arnau · eToro tracker</title>
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.4/dist/chart.umd.min.js"></script>
+<style>
+:root{--bg:#0f1420;--card:#171e2e;--line:#263049;--txt:#e8ecf4;--mut:#8b96ad;--a:#13c636;--b:#4aa3ff;--neg:#ff5c6c;--pos:#2ed47a}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--txt);font:14px/1.45 system-ui,-apple-system,Segoe UI,Roboto,sans-serif}
+.wrap{max-width:1180px;margin:0 auto;padding:24px 18px 40px}
+h1{font-size:24px;margin:0}h2{font-size:16px;margin:0 0 12px;color:#cfd6e6}.sub{color:var(--mut);font-size:13px}
+header{display:flex;justify-content:space-between;align-items:flex-end;gap:12px;flex-wrap:wrap;margin-bottom:18px}
+.grid2{display:grid;grid-template-columns:1fr 1fr;gap:16px}.card{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:16px}
+.mt{margin-top:16px}.who{display:flex;gap:12px;align-items:center;margin-bottom:12px}.who img{width:56px;height:56px;border-radius:50%;border:3px solid var(--c)}
+.who .n{font-weight:700;font-size:17px}.badge{display:inline-block;font-size:11px;padding:2px 8px;border-radius:99px;background:#263049;color:#cfd6e6;margin-right:4px}
+.kpis{display:grid;grid-template-columns:repeat(3,1fr);gap:8px}.k{background:#111827;border-radius:10px;padding:9px 10px}.k .l{color:var(--mut);font-size:11px;text-transform:uppercase;letter-spacing:.03em}.k .v{font-size:19px;font-weight:700}
+.pos{color:var(--pos)}.neg{color:var(--neg)}a{color:var(--b)}
+table{width:100%;border-collapse:collapse}th,td{padding:7px 8px;border-bottom:1px solid var(--line);text-align:right}th:first-child,td:first-child{text-align:left;color:#cfd6e6}
+th{color:var(--mut);font-weight:600;font-size:12px}.win{font-weight:700}.win::after{content:" ★";color:#f5c542;font-size:11px}
+.risk{display:flex;gap:3px}.risk span{flex:1;height:8px;border-radius:2px;background:#263049}
+.alloc{display:grid;grid-template-columns:170px 1fr;gap:12px;align-items:center}.alist{max-height:230px;overflow:auto;font-size:12.5px}.alist div{display:flex;justify-content:space-between;padding:3px 0;border-bottom:1px dashed #222b40}
+.alist small{color:var(--mut)}footer{color:var(--mut);font-size:12px;margin-top:18px}
+@media(max-width:820px){.grid2{grid-template-columns:1fr}.kpis{grid-template-columns:repeat(2,1fr)}}
+</style></head><body><div class="wrap">
+<header><div><h1>Arnau vs Arnau · eToro</h1><div class="sub">Comparativa de datos públicos de perfil</div></div><div class="sub" id="upd"></div></header>
+<div class="grid2" id="cards"></div>
+<div class="card mt"><h2>Comparativa lado a lado</h2><table id="cmp"></table></div>
+<div class="grid2 mt"><div class="card"><h2>Rentabilidad anual</h2><canvas id="cYear" height="200"></canvas></div>
+<div class="card"><h2>Evolución (últimos ~400 días, base 100)</h2><canvas id="cEq" height="200"></canvas></div></div>
+<div class="card mt"><h2>Rentabilidad mensual (últimos 18 meses)</h2><canvas id="cMon" height="90"></canvas></div>
+<div class="grid2 mt" id="allocs"></div>
+<footer>Fuente: eToro Public API, solo datos públicos de perfil. La caída máxima de 400 días se calcula a partir de la rentabilidad diaria; la "caída máx. del periodo" es el <i>peak-to-valley</i> que publica eToro. Rentabilidades pasadas no garantizan rentabilidades futuras. No es asesoramiento financiero.</footer>
+</div><script>
+const COLORS=["#13c636","#4aa3ff"],P=(x,d=1)=>x==null?"–":(x*100>0?"+":"")+(x*100).toFixed(d)+" %",cls=x=>x==null?"":x>=0?"pos":"neg";
+const PER={CurrMonth:"Mes actual",CurrQuarter:"Trimestre",SixMonthsAgo:"6 meses",CurrYear:"Año en curso",OneYearAgo:"12 meses",LastYear:"Año pasado",LastTwoYears:"2 años"};
+Chart.defaults.color="#8b96ad";Chart.defaults.borderColor="#263049";Chart.defaults.font.family="system-ui";
+fetch("data.json",{cache:"no-store"}).then(r=>r.json()).then(D=>{
+ const U=D.users;document.getElementById("upd").textContent="Actualizado: "+new Date(D.generatedAt).toLocaleString("es-ES",{timeZone:"Europe/Madrid",dateStyle:"medium",timeStyle:"short"})+" (hora de Madrid)";
+ const lvl={1:"Cadet",2:"Rising Star",3:"Champion",4:"Elite",5:"Elite Pro"};
+ document.getElementById("cards").innerHTML=U.map((u,i)=>{const r=u.rankings.CurrYear,y=u.rankings.OneYearAgo;return `<div class="card" style="--c:${COLORS[i]}">
+ <div class="who"><img src="${u.profile.avatar}" alt=""><div><div class="n">${u.profile.fullName}</div><a href="${u.profileUrl}" target="_blank">@${u.username}</a><br>
+ <span class="badge">Popular Investor · ${lvl[u.profile.piLevel]||u.profile.piLevel}</span><span class="badge">AUM ${u.copiers.aumTierDesc}</span></div></div>
+ <div class="kpis"><div class="k"><div class="l">Año en curso</div><div class="v ${cls(r.gain)}">${P(r.gain)}</div></div>
+ <div class="k"><div class="l">Últimos 12 meses</div><div class="v ${cls(y.gain)}">${P(y.gain)}</div></div>
+ <div class="k"><div class="l">Copiadores</div><div class="v">${u.copiers.copiers}</div></div>
+ <div class="k"><div class="l">Riesgo</div><div class="v">${r.riskScore}/10</div><div class="risk">${[...Array(10)].map((_,j)=>`<span style="${j<r.riskScore?'background:'+(r.riskScore<=3?'#2ed47a':r.riskScore<=5?'#f5c542':'#ff5c6c'):''}"></span>`).join("")}</div></div>
+ <div class="k"><div class="l">Caída máx. 400 d</div><div class="v neg">${P(u.maxDrawdown400d.value)}</div></div>
+ <div class="k"><div class="l">Rent. anualizada</div><div class="v ${cls(r.annualizedReturn)}">${P(r.annualizedReturn)}</div></div></div>
+ <div class="sub" style="margin-top:10px">${(u.profile.aboutShort||"").replace(/\n/g," · ")}</div></div>`}).join("");
+ // comparison
+ const rows=[];const best=(a,b,hi=true)=>a==b?[0,0]:(hi?a>b:a<b)?[1,0]:[0,1];
+ const add=(lab,f,fmt,hi=true)=>{const a=f(U[0]),b=f(U[1]);const w=(a==null||b==null)?[0,0]:best(a,b,hi);rows.push(`<tr><td>${lab}</td><td class="${w[0]?'win':''} ${fmt==P?cls(a):''}">${fmt(a)}</td><td class="${w[1]?'win':''} ${fmt==P?cls(b):''}">${fmt(b)}</td></tr>`)};
+ for(const p of Object.keys(PER)) add("Rentabilidad · "+PER[p],u=>u.rankings[p]?.gain,P);
+ const N=x=>x==null?"–":x.toLocaleString("es-ES"),pc=x=>x==null?"–":x.toLocaleString("es-ES")+" %";
+ add("Rentabilidad anualizada",u=>u.rankings.CurrYear.annualizedReturn,P);
+ add("Rentabilidad acumulada (desde el inicio)",u=>u.totalGain,P);
+ add("Caída máx. 400 días (calculada)",u=>u.maxDrawdown400d.value,P);
+ add("Caída máx. del año (eToro)",u=>u.rankings.CurrYear.peakToValley,pc);
+ add("Peor día / peor semana del año",u=>u.rankings.CurrYear.dailyDD,x=>x,true);rows.pop();
+ rows.push(`<tr><td>Peor día / peor semana del año</td>${U.map(u=>`<td class="neg">${u.rankings.CurrYear.dailyDD} % / ${u.rankings.CurrYear.weeklyDD} %</td>`).join("")}</tr>`);
+ add("Riesgo actual (1–10)",u=>u.rankings.CurrYear.riskScore,N,false);
+ add("Riesgo máx. mensual",u=>u.rankings.CurrYear.maxMonthlyRiskScore,N,false);
+ add("Copiadores",u=>u.copiers.copiers,N);
+ add("Crecimiento de copiadores (año)",u=>u.rankings.CurrYear.copiersGain,P);
+ rows.push(`<tr><td>Patrimonio copiado (tramo AUM)</td>${U.map(u=>`<td>${u.copiers.aumTierDesc}</td>`).join("")}</tr>`);
+ add("Semanas en positivo",u=>u.rankings.CurrYear.profitableWeeksPct,pc);
+ add("Meses en positivo",u=>u.rankings.CurrYear.profitableMonthsPct,pc);
+ add("Operaciones cerradas (año)",u=>u.rankings.CurrYear.trades,N);
+ add("% operaciones ganadoras",u=>u.rankings.CurrYear.winRatio,pc);
+ add("Nº de activos en cartera",u=>u.allocation.assets.length,N);
+ add("Efectivo / no asignado",u=>Math.max(0,1-u.allocation.assets.reduce((s,a)=>s+a.valuePct,0)),x=>(x*100).toFixed(1)+" %",false);//.assets.reduce((s,a)=>s+a.valuePct,0),x=>(x*100).toFixed(1)+" %",false);
+ document.getElementById("cmp").innerHTML=`<tr><th></th>${U.map((u,i)=>`<th style="color:${COLORS[i]}">${u.label}</th>`).join("")}</tr>`+rows.join("");
+ // yearly
+ const years=[...new Set(U.flatMap(u=>u.yearly.map(y=>y.year)))].sort();
+ new Chart(cYear,{type:"bar",data:{labels:years,datasets:U.map((u,i)=>({label:u.label,backgroundColor:COLORS[i],borderRadius:4,data:years.map(y=>{const v=u.yearly.find(z=>z.year==y);return v?+(v.gain*100).toFixed(2):null})}))},options:{plugins:{tooltip:{callbacks:{label:c=>c.dataset.label+": "+c.raw+" %"}}},scales:{y:{ticks:{callback:v=>v+" %"}}}}});
+ // equity
+ const dates=U[0].equityCurve.map(p=>p.date);
+ new Chart(cEq,{type:"line",data:{labels:dates,datasets:U.map((u,i)=>({label:u.label,borderColor:COLORS[i],pointRadius:0,borderWidth:2,tension:.15,data:u.equityCurve.map(p=>+(p.equity*100).toFixed(2))}))},options:{interaction:{mode:"index",intersect:false},scales:{x:{ticks:{maxTicksLimit:8}}}}});
+ // monthly
+ const months=[...new Set(U.flatMap(u=>u.monthly.map(m=>m.month)))].sort().slice(-18);
+ new Chart(cMon,{type:"bar",data:{labels:months,datasets:U.map((u,i)=>({label:u.label,backgroundColor:COLORS[i],borderRadius:3,data:months.map(m=>{const v=u.monthly.find(z=>z.month==m);return v?+(v.gain*100).toFixed(2):null})}))},options:{plugins:{tooltip:{callbacks:{label:c=>c.dataset.label+": "+c.raw+" %"}}},scales:{y:{ticks:{callback:v=>v+" %"}}}}});
+ // allocation
+ document.getElementById("allocs").innerHTML=U.map((u,i)=>`<div class="card"><h2>Reparto de activos · ${u.label} <span class="sub">(${u.allocation.date})</span></h2><div class="alloc"><div style="position:relative;width:170px;height:170px"><canvas id="al${i}"></canvas></div><div class="alist">${u.allocation.assets.map(a=>`<div><span><b>${a.symbol}</b> <small>${a.name}</small></span><span>${(a.valuePct*100).toFixed(1)} %</span></div>`).join("")}<div><span><b>Efectivo / no asignado</b></span><span>${(Math.max(0,1-u.allocation.assets.reduce((s,a)=>s+a.valuePct,0))*100).toFixed(1)} %</span></div></div></div></div>`).join("");
+ const pal=["#13c636","#4aa3ff","#f5c542","#ff7a59","#b66dff","#2ed4c8","#ff5c9a","#8bd450","#5c7cff","#ffa94d"];
+ U.forEach((u,i)=>{const top=u.allocation.assets.slice(0,9),rest=u.allocation.assets.slice(9).reduce((s,a)=>s+a.valuePct,0),cash=1-u.allocation.assets.reduce((s,a)=>s+a.valuePct,0);
+  const labels=[...top.map(a=>a.symbol)],vals=[...top.map(a=>a.valuePct)];if(rest>0.0005){labels.push("Otros");vals.push(rest)}if(cash>0.0005){labels.push("Efectivo");vals.push(cash)}
+  new Chart(document.getElementById("al"+i),{type:"doughnut",data:{labels,datasets:[{data:vals.map(v=>+(v*100).toFixed(1)),backgroundColor:labels.map((l,j)=>l=="Efectivo"?"#3a4560":l=="Otros"?"#56607a":pal[j%10]),borderWidth:0}]},options:{maintainAspectRatio:false,cutout:"62%",plugins:{legend:{display:false},tooltip:{callbacks:{label:c=>c.label+": "+c.raw+" %"}}}}})});
+});
+</script></body></html>

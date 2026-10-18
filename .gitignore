@@ -1,0 +1,6 @@
+# Only index.html, data.json and README.md are published
+*
+!index.html
+!data.json
+!README.md
+!.gitignore
