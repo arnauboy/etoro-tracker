@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-18T16:05:05+00:00",
+ "generatedAt": "2026-10-18T16:18:04+00:00",
  "source": "eToro Public API (datos públicos de perfil)",
  "users": [
   {
@@ -334,7 +334,7 @@
      "firstActivity": "2025-10-18T00:00:00",
      "lastActivity": "2026-10-18T00:00:00",
      "activeWeeksPct": 100.0,
-     "weeksSinceRegistration": 175
+     "weeksSinceRegistration": 176
     },
     "LastYear": {
      "cid": 34155104,
@@ -394,7 +394,7 @@
      "firstActivity": "2025-01-01T00:00:00",
      "lastActivity": "2026-10-18T00:00:00",
      "activeWeeksPct": 100.0,
-     "weeksSinceRegistration": 176
+     "weeksSinceRegistration": 175
     },
     "LastTwoYears": {
      "cid": 34155104,
@@ -2364,12 +2364,12 @@
      "riskScore": 2,
      "maxDailyRiskScore": 3,
      "maxMonthlyRiskScore": 2,
-     "copiers": 629,
+     "copiers": 630,
      "copiedTrades": 0,
      "copyTradesPct": 0.0,
      "copyInvestmentPct": 0.0,
      "baseLineCopiers": 606,
-     "copiersGain": 0.038,
+     "copiersGain": 0.0396,
      "virtualCopiers": 0,
      "dailyDD": -0.48,
      "weeklyDD": -0.12,
@@ -2396,7 +2396,7 @@
      "firstActivity": "2026-10-01T00:00:00",
      "lastActivity": "2026-10-18T00:00:00",
      "activeWeeksPct": 100.0,
-     "weeksSinceRegistration": 204
+     "weeksSinceRegistration": 203
     },
     "CurrQuarter": {
      "cid": 32250055,
@@ -2414,19 +2414,19 @@
      ],
      "gain": 0.0029,
      "dailyGain": 0.0025,
-     "thisWeekGain": 0.0017,
+     "thisWeekGain": 0.0016,
      "fiveYearGain": 1.1338,
      "tenYearGain": 1.1338,
      "annualizedReturn": 0.21350001,
      "riskScore": 2,
      "maxDailyRiskScore": 3,
      "maxMonthlyRiskScore": 2,
-     "copiers": 629,
+     "copiers": 630,
      "copiedTrades": 0,
      "copyTradesPct": 0.0,
      "copyInvestmentPct": 0.0,
      "baseLineCopiers": 606,
-     "copiersGain": 0.038,
+     "copiersGain": 0.0396,
      "virtualCopiers": 0,
      "dailyDD": -0.48,
      "weeklyDD": -0.12,
@@ -2453,7 +2453,7 @@
      "firstActivity": "2026-10-01T00:00:00",
      "lastActivity": "2026-10-18T00:00:00",
      "activeWeeksPct": 100.0,
-     "weeksSinceRegistration": 204
+     "weeksSinceRegistration": 203
     },
     "SixMonthsAgo": {
      "cid": 32250055,
@@ -2477,12 +2477,12 @@
      "riskScore": 2,
      "maxDailyRiskScore": 4,
      "maxMonthlyRiskScore": 4,
-     "copiers": 629,
+     "copiers": 630,
      "copiedTrades": 0,
      "copyTradesPct": 0.0,
      "copyInvestmentPct": 0.0,
      "baseLineCopiers": 606,
-     "copiersGain": 0.038,
+     "copiersGain": 0.0396,
      "virtualCopiers": 0,
      "dailyDD": -1.73,
      "weeklyDD": -1.89,
@@ -2509,7 +2509,7 @@
      "firstActivity": "2026-04-01T00:00:00",
      "lastActivity": "2026-10-18T00:00:00",
      "activeWeeksPct": 100.0,
-     "weeksSinceRegistration": 204
+     "weeksSinceRegistration": 203
     },
     "CurrYear": {
      "cid": 32250055,
@@ -2533,12 +2533,12 @@
      "riskScore": 2,
      "maxDailyRiskScore": 4,
      "maxMonthlyRiskScore": 4,
-     "copiers": 629,
+     "copiers": 630,
      "copiedTrades": 0,
      "copyTradesPct": 0.0,
      "copyInvestmentPct": 0.0,
      "baseLineCopiers": 606,
-     "copiersGain": 0.038,
+     "copiersGain": 0.0396,
      "virtualCopiers": 0,
      "dailyDD": -2.01,
      "weeklyDD": -2.66,
@@ -2589,12 +2589,12 @@
      "riskScore": 2,
      "maxDailyRiskScore": 4,
      "maxMonthlyRiskScore": 4,
-     "copiers": 629,
+     "copiers": 628,
      "copiedTrades": 0,
      "copyTradesPct": 0.0,
      "copyInvestmentPct": 0.0,
      "baseLineCopiers": 606,
-     "copiersGain": 0.038,
+     "copiersGain": 0.0363,
      "virtualCopiers": 0,
      "dailyDD": -2.01,
      "weeklyDD": -2.66,
@@ -2621,7 +2621,7 @@
      "firstActivity": "2025-10-18T00:00:00",
      "lastActivity": "2026-10-18T00:00:00",
      "activeWeeksPct": 100.0,
-     "weeksSinceRegistration": 203
+     "weeksSinceRegistration": 204
     },
     "LastYear": {
      "cid": 32250055,
@@ -2645,12 +2645,12 @@
      "riskScore": 2,
      "maxDailyRiskScore": 4,
      "maxMonthlyRiskScore": 4,
-     "copiers": 629,
+     "copiers": 630,
      "copiedTrades": 0,
      "copyTradesPct": 0.0,
      "copyInvestmentPct": 0.0,
      "baseLineCopiers": 606,
-     "copiersGain": 0.038,
+     "copiersGain": 0.0396,
      "virtualCopiers": 0,
      "dailyDD": -3.24,
      "weeklyDD": -3.52,
@@ -2677,7 +2677,7 @@
      "firstActivity": "2025-01-01T00:00:00",
      "lastActivity": "2026-10-18T00:00:00",
      "activeWeeksPct": 100.0,
-     "weeksSinceRegistration": 204
+     "weeksSinceRegistration": 203
     },
     "LastTwoYears": {
      "cid": 32250055,
@@ -2701,12 +2701,12 @@
      "riskScore": 2,
      "maxDailyRiskScore": 4,
      "maxMonthlyRiskScore": 4,
-     "copiers": 629,
+     "copiers": 630,
      "copiedTrades": 0,
      "copyTradesPct": 0.0,
      "copyInvestmentPct": 0.0,
      "baseLineCopiers": 606,
-     "copiersGain": 0.038,
+     "copiersGain": 0.0396,
      "virtualCopiers": 0,
      "dailyDD": -3.37,
      "weeklyDD": -3.89,
@@ -2733,11 +2733,11 @@
      "firstActivity": "2024-10-18T00:00:00",
      "lastActivity": "2026-10-18T00:00:00",
      "activeWeeksPct": 100.0,
-     "weeksSinceRegistration": 204
+     "weeksSinceRegistration": 203
     }
    },
    "copiers": {
-    "copiers": 629,
+    "copiers": 630,
     "aumTier": 5,
     "aumTierDesc": "$1M-$2M"
    },
