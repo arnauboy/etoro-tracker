@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-25T06:01:50+00:00",
+ "generatedAt": "2026-10-26T06:09:59+00:00",
  "source": "eToro Public API (datos públicos de perfil)",
  "users": [
   {
@@ -55,7 +55,7 @@
      "fiveYearGain": 5.6886997,
      "tenYearGain": 5.6886997,
      "annualizedReturn": 0.74410003,
-     "riskScore": 6,
+     "riskScore": 0,
      "maxDailyRiskScore": 6,
      "maxMonthlyRiskScore": 6,
      "copiers": 17,
@@ -88,9 +88,9 @@
      "totalTradedInstruments": 9,
      "activeWeeks": 4,
      "firstActivity": "2026-10-01T00:00:00",
-     "lastActivity": "2026-10-24T00:00:00",
+     "lastActivity": "2026-10-25T00:00:00",
      "activeWeeksPct": 100.0,
-     "weeksSinceRegistration": 176
+     "weeksSinceRegistration": 177
     },
     "CurrQuarter": {
      "cid": 34155104,
@@ -119,7 +119,7 @@
      "fiveYearGain": 5.6886997,
      "tenYearGain": 5.6886997,
      "annualizedReturn": 0.74410003,
-     "riskScore": 6,
+     "riskScore": 0,
      "maxDailyRiskScore": 6,
      "maxMonthlyRiskScore": 6,
      "copiers": 17,
@@ -152,9 +152,9 @@
      "totalTradedInstruments": 9,
      "activeWeeks": 4,
      "firstActivity": "2026-10-01T00:00:00",
-     "lastActivity": "2026-10-24T00:00:00",
+     "lastActivity": "2026-10-25T00:00:00",
      "activeWeeksPct": 100.0,
-     "weeksSinceRegistration": 176
+     "weeksSinceRegistration": 177
     },
     "SixMonthsAgo": {
      "cid": 34155104,
@@ -179,7 +179,7 @@
      "fiveYearGain": 5.6886997,
      "tenYearGain": 5.6886997,
      "annualizedReturn": 0.74410003,
-     "riskScore": 6,
+     "riskScore": 0,
      "maxDailyRiskScore": 7,
      "maxMonthlyRiskScore": 7,
      "copiers": 17,
@@ -212,9 +212,9 @@
      "totalTradedInstruments": 18,
      "activeWeeks": 30,
      "firstActivity": "2026-04-01T00:00:00",
-     "lastActivity": "2026-10-24T00:00:00",
+     "lastActivity": "2026-10-25T00:00:00",
      "activeWeeksPct": 100.0,
-     "weeksSinceRegistration": 176
+     "weeksSinceRegistration": 177
     },
     "CurrYear": {
      "cid": 34155104,
@@ -239,7 +239,7 @@
      "fiveYearGain": 5.6886997,
      "tenYearGain": 5.6886997,
      "annualizedReturn": 0.74410003,
-     "riskScore": 6,
+     "riskScore": 0,
      "maxDailyRiskScore": 7,
      "maxMonthlyRiskScore": 7,
      "copiers": 17,
@@ -270,11 +270,11 @@
      "topTradedAssetClassId": 5,
      "topTradedInstrumentPct": 22.25,
      "totalTradedInstruments": 22,
-     "activeWeeks": 43,
+     "activeWeeks": 44,
      "firstActivity": "2026-01-01T00:00:00",
-     "lastActivity": "2026-10-24T00:00:00",
+     "lastActivity": "2026-10-26T00:00:00",
      "activeWeeksPct": 100.0,
-     "weeksSinceRegistration": 176
+     "weeksSinceRegistration": 177
     },
     "OneYearAgo": {
      "cid": 34155104,
@@ -299,7 +299,7 @@
      "fiveYearGain": 5.6886997,
      "tenYearGain": 5.6886997,
      "annualizedReturn": 0.74410003,
-     "riskScore": 6,
+     "riskScore": 0,
      "maxDailyRiskScore": 7,
      "maxMonthlyRiskScore": 7,
      "copiers": 17,
@@ -328,13 +328,13 @@
      "longPosPct": 100.0,
      "topTradedInstrumentId": 1150,
      "topTradedAssetClassId": 5,
-     "topTradedInstrumentPct": 20.81,
+     "topTradedInstrumentPct": 21.24,
      "totalTradedInstruments": 23,
      "activeWeeks": 53,
-     "firstActivity": "2025-10-24T00:00:00",
-     "lastActivity": "2026-10-24T00:00:00",
+     "firstActivity": "2025-10-26T00:00:00",
+     "lastActivity": "2026-10-26T00:00:00",
      "activeWeeksPct": 100.0,
-     "weeksSinceRegistration": 176
+     "weeksSinceRegistration": 177
     },
     "LastYear": {
      "cid": 34155104,
@@ -359,7 +359,7 @@
      "fiveYearGain": 5.6886997,
      "tenYearGain": 5.6886997,
      "annualizedReturn": 0.74410003,
-     "riskScore": 6,
+     "riskScore": 0,
      "maxDailyRiskScore": 8,
      "maxMonthlyRiskScore": 8,
      "copiers": 17,
@@ -390,11 +390,11 @@
      "topTradedAssetClassId": 5,
      "topTradedInstrumentPct": 19.24,
      "totalTradedInstruments": 27,
-     "activeWeeks": 95,
+     "activeWeeks": 96,
      "firstActivity": "2025-01-01T00:00:00",
-     "lastActivity": "2026-10-24T00:00:00",
+     "lastActivity": "2026-10-26T00:00:00",
      "activeWeeksPct": 100.0,
-     "weeksSinceRegistration": 176
+     "weeksSinceRegistration": 177
     },
     "LastTwoYears": {
      "cid": 34155104,
@@ -419,7 +419,7 @@
      "fiveYearGain": 5.6886997,
      "tenYearGain": 5.6886997,
      "annualizedReturn": 0.74410003,
-     "riskScore": 6,
+     "riskScore": 0,
      "maxDailyRiskScore": 8,
      "maxMonthlyRiskScore": 8,
      "copiers": 17,
@@ -450,11 +450,11 @@
      "topTradedAssetClassId": 5,
      "topTradedInstrumentPct": 19.09,
      "totalTradedInstruments": 27,
-     "activeWeeks": 105,
-     "firstActivity": "2024-10-24T00:00:00",
-     "lastActivity": "2026-10-24T00:00:00",
+     "activeWeeks": 106,
+     "firstActivity": "2024-10-26T00:00:00",
+     "lastActivity": "2026-10-26T00:00:00",
      "activeWeeksPct": 100.0,
-     "weeksSinceRegistration": 176
+     "weeksSinceRegistration": 177
     }
    },
    "copiers": {
@@ -649,1604 +649,1604 @@
    "totalGain": 5.689077,
    "equityCurve": [
     {
-     "date": "2025-09-19",
-     "equity": 1.0311
-    },
-    {
      "date": "2025-09-20",
-     "equity": 1.0311
+     "equity": 1.0
     },
     {
      "date": "2025-09-21",
-     "equity": 1.0311
+     "equity": 1.0
     },
     {
      "date": "2025-09-22",
-     "equity": 1.0345
+     "equity": 1.0033
     },
     {
      "date": "2025-09-23",
-     "equity": 1.03523
+     "equity": 1.004
     },
     {
      "date": "2025-09-24",
-     "equity": 0.99102
+     "equity": 0.96113
     },
     {
      "date": "2025-09-25",
-     "equity": 0.98409
+     "equity": 0.9544
     },
     {
      "date": "2025-09-26",
-     "equity": 0.99432
+     "equity": 0.96433
     },
     {
      "date": "2025-09-27",
-     "equity": 0.99432
+     "equity": 0.96433
     },
     {
      "date": "2025-09-28",
-     "equity": 0.99432
+     "equity": 0.96433
     },
     {
      "date": "2025-09-29",
-     "equity": 1.02395
+     "equity": 0.99307
     },
     {
      "date": "2025-09-30",
-     "equity": 1.02282
+     "equity": 0.99197
     },
     {
      "date": "2025-10-01",
-     "equity": 1.01464
+     "equity": 0.98404
     },
     {
      "date": "2025-10-02",
-     "equity": 1.05086
+     "equity": 1.01917
     },
     {
      "date": "2025-10-03",
-     "equity": 1.035
+     "equity": 1.00378
     },
     {
      "date": "2025-10-04",
-     "equity": 1.035
+     "equity": 1.00378
     },
     {
      "date": "2025-10-05",
-     "equity": 1.035
+     "equity": 1.00378
     },
     {
      "date": "2025-10-06",
-     "equity": 1.05808
+     "equity": 1.02616
     },
     {
      "date": "2025-10-07",
-     "equity": 1.0822
+     "equity": 1.04956
     },
     {
      "date": "2025-10-08",
-     "equity": 1.11077
+     "equity": 1.07727
     },
     {
      "date": "2025-10-09",
-     "equity": 1.11155
+     "equity": 1.07802
     },
     {
      "date": "2025-10-10",
-     "equity": 1.04285
+     "equity": 1.0114
     },
     {
      "date": "2025-10-11",
-     "equity": 1.04285
+     "equity": 1.0114
     },
     {
      "date": "2025-10-12",
-     "equity": 1.04285
+     "equity": 1.0114
     },
     {
      "date": "2025-10-13",
-     "equity": 1.06152
+     "equity": 1.0295
     },
     {
      "date": "2025-10-14",
-     "equity": 1.07458
+     "equity": 1.04217
     },
     {
      "date": "2025-10-15",
-     "equity": 1.10649
+     "equity": 1.07312
     },
     {
      "date": "2025-10-16",
-     "equity": 1.06024
+     "equity": 1.02826
     },
     {
      "date": "2025-10-17",
-     "equity": 1.02186
+     "equity": 0.99104
     },
     {
      "date": "2025-10-18",
-     "equity": 1.02186
+     "equity": 0.99104
     },
     {
      "date": "2025-10-19",
-     "equity": 1.02186
+     "equity": 0.99104
     },
     {
      "date": "2025-10-20",
-     "equity": 1.05303
+     "equity": 1.02127
     },
     {
      "date": "2025-10-21",
-     "equity": 1.02712
+     "equity": 0.99614
     },
     {
      "date": "2025-10-22",
-     "equity": 0.98953
+     "equity": 0.95968
     },
     {
      "date": "2025-10-23",
-     "equity": 1.02961
+     "equity": 0.99855
     },
     {
      "date": "2025-10-24",
-     "equity": 1.04227
+     "equity": 1.01083
     },
     {
      "date": "2025-10-25",
-     "equity": 1.04227
+     "equity": 1.01083
     },
     {
      "date": "2025-10-26",
-     "equity": 1.04227
+     "equity": 1.01083
     },
     {
      "date": "2025-10-27",
-     "equity": 1.07792
+     "equity": 1.0454
     },
     {
      "date": "2025-10-28",
-     "equity": 1.0611
+     "equity": 1.0291
     },
     {
      "date": "2025-10-29",
-     "equity": 1.0784
+     "equity": 1.04587
     },
     {
      "date": "2025-10-30",
-     "equity": 1.04357
+     "equity": 1.01209
     },
     {
      "date": "2025-10-31",
-     "equity": 1.06798
+     "equity": 1.03577
     },
     {
      "date": "2025-11-01",
-     "equity": 1.06798
+     "equity": 1.03577
     },
     {
      "date": "2025-11-02",
-     "equity": 1.06798
+     "equity": 1.03577
     },
     {
      "date": "2025-11-03",
-     "equity": 1.06168
+     "equity": 1.02966
     },
     {
      "date": "2025-11-04",
-     "equity": 0.99809
+     "equity": 0.96798
     },
     {
      "date": "2025-11-05",
-     "equity": 1.08203
+     "equity": 1.04939
     },
     {
      "date": "2025-11-06",
-     "equity": 0.99092
+     "equity": 0.96103
     },
     {
      "date": "2025-11-07",
-     "equity": 0.99716
+     "equity": 0.96709
     },
     {
      "date": "2025-11-08",
-     "equity": 0.99716
+     "equity": 0.96709
     },
     {
      "date": "2025-11-09",
-     "equity": 0.99716
+     "equity": 0.96709
     },
     {
      "date": "2025-11-10",
-     "equity": 1.04453
+     "equity": 1.01302
     },
     {
      "date": "2025-11-11",
-     "equity": 1.01998
+     "equity": 0.98922
     },
     {
      "date": "2025-11-12",
-     "equity": 0.98898
+     "equity": 0.95915
     },
     {
      "date": "2025-11-13",
-     "equity": 0.91638
+     "equity": 0.88874
     },
     {
      "date": "2025-11-14",
-     "equity": 0.92234
+     "equity": 0.89452
     },
     {
      "date": "2025-11-15",
-     "equity": 0.92234
+     "equity": 0.89452
     },
     {
      "date": "2025-11-16",
-     "equity": 0.92234
+     "equity": 0.89452
     },
     {
      "date": "2025-11-17",
-     "equity": 0.886
+     "equity": 0.85928
     },
     {
      "date": "2025-11-18",
-     "equity": 0.88636
+     "equity": 0.85962
     },
     {
      "date": "2025-11-19",
-     "equity": 0.91419
+     "equity": 0.88661
     },
     {
      "date": "2025-11-20",
-     "equity": 0.83621
+     "equity": 0.81098
     },
     {
      "date": "2025-11-21",
-     "equity": 0.84382
+     "equity": 0.81836
     },
     {
      "date": "2025-11-22",
-     "equity": 0.84373
+     "equity": 0.81828
     },
     {
      "date": "2025-11-23",
-     "equity": 0.84432
+     "equity": 0.81886
     },
     {
      "date": "2025-11-24",
-     "equity": 0.90258
+     "equity": 0.87536
     },
     {
      "date": "2025-11-25",
-     "equity": 0.90294
+     "equity": 0.87571
     },
     {
      "date": "2025-11-26",
-     "equity": 0.93689
+     "equity": 0.90863
     },
     {
      "date": "2025-11-27",
-     "equity": 0.93717
+     "equity": 0.90891
     },
     {
      "date": "2025-11-28",
-     "equity": 0.94683
+     "equity": 0.91827
     },
     {
      "date": "2025-11-29",
-     "equity": 0.94683
+     "equity": 0.91827
     },
     {
      "date": "2025-11-30",
-     "equity": 0.94673
+     "equity": 0.91818
     },
     {
      "date": "2025-12-01",
-     "equity": 0.91369
+     "equity": 0.88613
     },
     {
      "date": "2025-12-02",
-     "equity": 0.91058
+     "equity": 0.88312
     },
     {
      "date": "2025-12-03",
-     "equity": 0.94227
+     "equity": 0.91385
     },
     {
      "date": "2025-12-04",
-     "equity": 0.9843
+     "equity": 0.95461
     },
     {
      "date": "2025-12-05",
-     "equity": 0.98853
+     "equity": 0.95871
     },
     {
      "date": "2025-12-06",
-     "equity": 0.98853
+     "equity": 0.95871
     },
     {
      "date": "2025-12-07",
-     "equity": 0.98893
+     "equity": 0.9591
     },
     {
      "date": "2025-12-08",
-     "equity": 1.00148
+     "equity": 0.97128
     },
     {
      "date": "2025-12-09",
-     "equity": 1.01931
+     "equity": 0.98857
     },
     {
      "date": "2025-12-10",
-     "equity": 1.01839
+     "equity": 0.98768
     },
     {
      "date": "2025-12-11",
-     "equity": 1.03907
+     "equity": 1.00773
     },
     {
      "date": "2025-12-12",
-     "equity": 1.00935
+     "equity": 0.97891
     },
     {
      "date": "2025-12-13",
-     "equity": 1.00935
+     "equity": 0.97891
     },
     {
      "date": "2025-12-14",
-     "equity": 1.00864
+     "equity": 0.97822
     },
     {
      "date": "2025-12-15",
-     "equity": 0.96073
+     "equity": 0.93176
     },
     {
      "date": "2025-12-16",
-     "equity": 0.99839
+     "equity": 0.96828
     },
     {
      "date": "2025-12-17",
-     "equity": 0.96095
+     "equity": 0.93197
     },
     {
      "date": "2025-12-18",
-     "equity": 1.00439
+     "equity": 0.97409
     },
     {
      "date": "2025-12-19",
-     "equity": 1.05601
+     "equity": 1.02416
     },
     {
      "date": "2025-12-20",
-     "equity": 1.05612
+     "equity": 1.02427
     },
     {
      "date": "2025-12-21",
-     "equity": 1.05623
+     "equity": 1.02437
     },
     {
      "date": "2025-12-22",
-     "equity": 1.06415
+     "equity": 1.03205
     },
     {
      "date": "2025-12-23",
-     "equity": 1.06787
+     "equity": 1.03566
     },
     {
      "date": "2025-12-24",
-     "equity": 1.0683
+     "equity": 1.03608
     },
     {
      "date": "2025-12-25",
-     "equity": 1.06819
+     "equity": 1.03597
     },
     {
      "date": "2025-12-26",
-     "equity": 1.01991
+     "equity": 0.98915
     },
     {
      "date": "2025-12-27",
-     "equity": 1.02011
+     "equity": 0.98935
     },
     {
      "date": "2025-12-28",
-     "equity": 1.02011
+     "equity": 0.98935
     },
     {
      "date": "2025-12-29",
-     "equity": 1.00002
+     "equity": 0.96986
     },
     {
      "date": "2025-12-30",
-     "equity": 0.99282
+     "equity": 0.96287
     },
     {
      "date": "2025-12-31",
-     "equity": 0.9815
+     "equity": 0.9519
     },
     {
      "date": "2026-01-01",
-     "equity": 0.98189
+     "equity": 0.95228
     },
     {
      "date": "2026-01-02",
-     "equity": 1.01577
+     "equity": 0.98513
     },
     {
      "date": "2026-01-03",
-     "equity": 1.01597
+     "equity": 0.98533
     },
     {
      "date": "2026-01-04",
-     "equity": 1.01628
+     "equity": 0.98562
     },
     {
      "date": "2026-01-05",
-     "equity": 1.04747
+     "equity": 1.01588
     },
     {
      "date": "2026-01-06",
-     "equity": 1.08749
+     "equity": 1.05469
     },
     {
      "date": "2026-01-07",
-     "equity": 1.08727
+     "equity": 1.05448
     },
     {
      "date": "2026-01-08",
-     "equity": 1.07009
+     "equity": 1.03782
     },
     {
      "date": "2026-01-09",
-     "equity": 1.0671
+     "equity": 1.03491
     },
     {
      "date": "2026-01-10",
-     "equity": 1.0671
+     "equity": 1.03491
     },
     {
      "date": "2026-01-11",
-     "equity": 1.06731
+     "equity": 1.03512
     },
     {
      "date": "2026-01-12",
-     "equity": 1.09773
+     "equity": 1.06462
     },
     {
      "date": "2026-01-13",
-     "equity": 1.08554
+     "equity": 1.0528
     },
     {
      "date": "2026-01-14",
-     "equity": 1.08033
+     "equity": 1.04775
     },
     {
      "date": "2026-01-15",
-     "equity": 1.06888
+     "equity": 1.03664
     },
     {
      "date": "2026-01-16",
-     "equity": 1.06621
+     "equity": 1.03405
     },
     {
      "date": "2026-01-17",
-     "equity": 1.0661
+     "equity": 1.03395
     },
     {
      "date": "2026-01-18",
-     "equity": 1.06557
+     "equity": 1.03343
     },
     {
      "date": "2026-01-19",
-     "equity": 1.06525
+     "equity": 1.03312
     },
     {
      "date": "2026-01-20",
-     "equity": 1.02871
+     "equity": 0.99768
     },
     {
      "date": "2026-01-21",
-     "equity": 1.04887
+     "equity": 1.01724
     },
     {
      "date": "2026-01-22",
-     "equity": 1.09366
+     "equity": 1.06067
     },
     {
      "date": "2026-01-23",
-     "equity": 1.09005
+     "equity": 1.05717
     },
     {
      "date": "2026-01-24",
-     "equity": 1.08994
+     "equity": 1.05707
     },
     {
      "date": "2026-01-25",
-     "equity": 1.08907
+     "equity": 1.05622
     },
     {
      "date": "2026-01-26",
-     "equity": 1.0552
+     "equity": 1.02337
     },
     {
      "date": "2026-01-27",
-     "equity": 1.05562
+     "equity": 1.02378
     },
     {
      "date": "2026-01-28",
-     "equity": 1.06101
+     "equity": 1.029
     },
     {
      "date": "2026-01-29",
-     "equity": 1.0435
+     "equity": 1.01203
     },
     {
      "date": "2026-01-30",
-     "equity": 0.98705
+     "equity": 0.95728
     },
     {
      "date": "2026-01-31",
-     "equity": 0.98507
+     "equity": 0.95536
     },
     {
      "date": "2026-02-01",
-     "equity": 0.98448
+     "equity": 0.95479
     },
     {
      "date": "2026-02-02",
-     "equity": 0.95406
+     "equity": 0.92528
     },
     {
      "date": "2026-02-03",
-     "equity": 0.95559
+     "equity": 0.92676
     },
     {
      "date": "2026-02-04",
-     "equity": 0.87503
+     "equity": 0.84864
     },
     {
      "date": "2026-02-05",
-     "equity": 0.78578
+     "equity": 0.76208
     },
     {
      "date": "2026-02-06",
-     "equity": 0.86113
+     "equity": 0.83516
     },
     {
      "date": "2026-02-07",
-     "equity": 0.8607
+     "equity": 0.83474
     },
     {
      "date": "2026-02-08",
-     "equity": 0.86105
+     "equity": 0.83508
     },
     {
      "date": "2026-02-09",
-     "equity": 0.86553
+     "equity": 0.83942
     },
     {
      "date": "2026-02-10",
-     "equity": 0.83229
+     "equity": 0.80719
     },
     {
      "date": "2026-02-11",
-     "equity": 0.79866
+     "equity": 0.77458
     },
     {
      "date": "2026-02-12",
-     "equity": 0.75226
+     "equity": 0.72957
     },
     {
      "date": "2026-02-13",
-     "equity": 0.77445
+     "equity": 0.7511
     },
     {
      "date": "2026-02-14",
-     "equity": 0.77476
+     "equity": 0.7514
     },
     {
      "date": "2026-02-15",
-     "equity": 0.77438
+     "equity": 0.75102
     },
     {
      "date": "2026-02-16",
-     "equity": 0.77438
+     "equity": 0.75102
     },
     {
      "date": "2026-02-17",
-     "equity": 0.78018
+     "equity": 0.75665
     },
     {
      "date": "2026-02-18",
-     "equity": 0.7993
+     "equity": 0.77519
     },
     {
      "date": "2026-02-19",
-     "equity": 0.78915
+     "equity": 0.76535
     },
     {
      "date": "2026-02-20",
-     "equity": 0.76066
+     "equity": 0.73772
     },
     {
      "date": "2026-02-21",
-     "equity": 0.76066
+     "equity": 0.73772
     },
     {
      "date": "2026-02-22",
-     "equity": 0.76051
+     "equity": 0.73757
     },
     {
      "date": "2026-02-23",
-     "equity": 0.71617
+     "equity": 0.69457
     },
     {
      "date": "2026-02-24",
-     "equity": 0.72369
+     "equity": 0.70186
     },
     {
      "date": "2026-02-25",
-     "equity": 0.73426
+     "equity": 0.71211
     },
     {
      "date": "2026-02-26",
-     "equity": 0.74189
+     "equity": 0.71951
     },
     {
      "date": "2026-02-27",
-     "equity": 0.72794
+     "equity": 0.70599
     },
     {
      "date": "2026-02-28",
-     "equity": 0.72831
+     "equity": 0.70634
     },
     {
      "date": "2026-03-01",
-     "equity": 0.72787
+     "equity": 0.70592
     },
     {
      "date": "2026-03-02",
-     "equity": 0.75822
+     "equity": 0.73535
     },
     {
      "date": "2026-03-03",
-     "equity": 0.74632
+     "equity": 0.72381
     },
     {
      "date": "2026-03-04",
-     "equity": 0.77796
+     "equity": 0.7545
     },
     {
      "date": "2026-03-05",
-     "equity": 0.77112
+     "equity": 0.74786
     },
     {
      "date": "2026-03-06",
-     "equity": 0.7732
+     "equity": 0.74988
     },
     {
      "date": "2026-03-07",
-     "equity": 0.77289
+     "equity": 0.74958
     },
     {
      "date": "2026-03-08",
-     "equity": 0.77243
+     "equity": 0.74913
     },
     {
      "date": "2026-03-09",
-     "equity": 0.79753
+     "equity": 0.77347
     },
     {
      "date": "2026-03-10",
-     "equity": 0.79386
+     "equity": 0.76992
     },
     {
      "date": "2026-03-11",
-     "equity": 0.79855
+     "equity": 0.77446
     },
     {
      "date": "2026-03-12",
-     "equity": 0.78217
+     "equity": 0.75858
     },
     {
      "date": "2026-03-13",
-     "equity": 0.79211
+     "equity": 0.76822
     },
     {
      "date": "2026-03-14",
-     "equity": 0.79219
+     "equity": 0.76829
     },
     {
      "date": "2026-03-15",
-     "equity": 0.79274
+     "equity": 0.76883
     },
     {
      "date": "2026-03-16",
-     "equity": 0.81518
+     "equity": 0.79059
     },
     {
      "date": "2026-03-17",
-     "equity": 0.86466
+     "equity": 0.83858
     },
     {
      "date": "2026-03-18",
-     "equity": 0.83197
+     "equity": 0.80688
     },
     {
      "date": "2026-03-19",
-     "equity": 0.84138
+     "equity": 0.816
     },
     {
      "date": "2026-03-20",
-     "equity": 0.81243
+     "equity": 0.78793
     },
     {
      "date": "2026-03-21",
-     "equity": 0.81186
+     "equity": 0.78738
     },
     {
      "date": "2026-03-22",
-     "equity": 0.81146
+     "equity": 0.78698
     },
     {
      "date": "2026-03-23",
-     "equity": 0.84181
+     "equity": 0.81642
     },
     {
      "date": "2026-03-24",
-     "equity": 0.8211
+     "equity": 0.79633
     },
     {
      "date": "2026-03-25",
-     "equity": 0.83588
+     "equity": 0.81067
     },
     {
      "date": "2026-03-26",
-     "equity": 0.80829
-    },
-    {
-     "date": "2026-03-27",
-     "equity": 0.75777
-    },
-    {
-     "date": "2026-03-28",
-     "equity": 0.75777
-    },
-    {
-     "date": "2026-03-29",
-     "equity": 0.75762
-    },
-    {
-     "date": "2026-03-30",
-     "equity": 0.72542
-    },
-    {
-     "date": "2026-03-31",
-     "equity": 0.78883
-    },
-    {
-     "date": "2026-04-01",
-     "equity": 0.78157
-    },
-    {
-     "date": "2026-04-02",
-     "equity": 0.78384
-    },
-    {
-     "date": "2026-04-03",
-     "equity": 0.78384
-    },
-    {
-     "date": "2026-04-04",
      "equity": 0.78391
     },
     {
+     "date": "2026-03-27",
+     "equity": 0.73492
+    },
+    {
+     "date": "2026-03-28",
+     "equity": 0.73492
+    },
+    {
+     "date": "2026-03-29",
+     "equity": 0.73477
+    },
+    {
+     "date": "2026-03-30",
+     "equity": 0.70354
+    },
+    {
+     "date": "2026-03-31",
+     "equity": 0.76503
+    },
+    {
+     "date": "2026-04-01",
+     "equity": 0.758
+    },
+    {
+     "date": "2026-04-02",
+     "equity": 0.76019
+    },
+    {
+     "date": "2026-04-03",
+     "equity": 0.76019
+    },
+    {
+     "date": "2026-04-04",
+     "equity": 0.76027
+    },
+    {
      "date": "2026-04-05",
-     "equity": 0.78454
+     "equity": 0.76088
     },
     {
      "date": "2026-04-06",
-     "equity": 0.79145
+     "equity": 0.76757
     },
     {
      "date": "2026-04-07",
-     "equity": 0.79311
+     "equity": 0.76919
     },
     {
      "date": "2026-04-08",
-     "equity": 0.77035
+     "equity": 0.74711
     },
     {
      "date": "2026-04-09",
-     "equity": 0.74076
+     "equity": 0.71842
     },
     {
      "date": "2026-04-10",
-     "equity": 0.7341
+     "equity": 0.71196
     },
     {
      "date": "2026-04-11",
-     "equity": 0.7341
+     "equity": 0.71196
     },
     {
      "date": "2026-04-12",
-     "equity": 0.73329
+     "equity": 0.71117
     },
     {
      "date": "2026-04-13",
-     "equity": 0.77553
+     "equity": 0.75214
     },
     {
      "date": "2026-04-14",
-     "equity": 0.80639
+     "equity": 0.78207
     },
     {
      "date": "2026-04-15",
-     "equity": 0.85236
+     "equity": 0.82665
     },
     {
      "date": "2026-04-16",
-     "equity": 0.88756
+     "equity": 0.86079
     },
     {
      "date": "2026-04-17",
-     "equity": 0.92004
+     "equity": 0.89229
     },
     {
      "date": "2026-04-18",
-     "equity": 0.92004
+     "equity": 0.89229
     },
     {
      "date": "2026-04-19",
-     "equity": 0.92004
+     "equity": 0.89229
     },
     {
      "date": "2026-04-20",
-     "equity": 0.9297
+     "equity": 0.90166
     },
     {
      "date": "2026-04-21",
-     "equity": 0.91167
+     "equity": 0.88417
     },
     {
      "date": "2026-04-22",
-     "equity": 0.91787
+     "equity": 0.89018
     },
     {
      "date": "2026-04-23",
-     "equity": 0.89015
+     "equity": 0.8633
     },
     {
      "date": "2026-04-24",
-     "equity": 0.88757
+     "equity": 0.8608
     },
     {
      "date": "2026-04-25",
-     "equity": 0.88757
+     "equity": 0.8608
     },
     {
      "date": "2026-04-26",
-     "equity": 0.88757
+     "equity": 0.8608
     },
     {
      "date": "2026-04-27",
-     "equity": 0.88783
+     "equity": 0.86105
     },
     {
      "date": "2026-04-28",
-     "equity": 0.86413
+     "equity": 0.83806
     },
     {
      "date": "2026-04-29",
-     "equity": 0.81366
+     "equity": 0.78912
     },
     {
      "date": "2026-04-30",
-     "equity": 0.83872
+     "equity": 0.81343
     },
     {
      "date": "2026-05-01",
-     "equity": 0.83998
+     "equity": 0.81465
     },
     {
      "date": "2026-05-02",
-     "equity": 0.83998
+     "equity": 0.81465
     },
     {
      "date": "2026-05-03",
-     "equity": 0.83998
+     "equity": 0.81465
     },
     {
      "date": "2026-05-04",
-     "equity": 0.83217
+     "equity": 0.80707
     },
     {
      "date": "2026-05-05",
-     "equity": 0.82352
+     "equity": 0.79868
     },
     {
      "date": "2026-05-06",
-     "equity": 0.83019
+     "equity": 0.80515
     },
     {
      "date": "2026-05-07",
-     "equity": 0.8252
+     "equity": 0.80032
     },
     {
      "date": "2026-05-08",
-     "equity": 0.89279
+     "equity": 0.86586
     },
     {
      "date": "2026-05-09",
-     "equity": 0.89279
+     "equity": 0.86586
     },
     {
      "date": "2026-05-10",
-     "equity": 0.89279
+     "equity": 0.86586
     },
     {
      "date": "2026-05-11",
-     "equity": 0.92047
+     "equity": 0.8927
     },
     {
      "date": "2026-05-12",
-     "equity": 0.9027
+     "equity": 0.87547
     },
     {
      "date": "2026-05-13",
-     "equity": 0.89295
+     "equity": 0.86602
     },
     {
      "date": "2026-05-14",
-     "equity": 0.92992
+     "equity": 0.90187
     },
     {
      "date": "2026-05-15",
-     "equity": 0.90397
+     "equity": 0.87671
     },
     {
      "date": "2026-05-16",
-     "equity": 0.90397
+     "equity": 0.87671
     },
     {
      "date": "2026-05-17",
-     "equity": 0.90397
+     "equity": 0.87671
     },
     {
      "date": "2026-05-18",
-     "equity": 0.91066
+     "equity": 0.8832
     },
     {
      "date": "2026-05-19",
-     "equity": 0.89873
+     "equity": 0.87163
     },
     {
      "date": "2026-05-20",
-     "equity": 0.8999
+     "equity": 0.87276
     },
     {
      "date": "2026-05-21",
-     "equity": 0.91169
+     "equity": 0.88419
     },
     {
      "date": "2026-05-22",
-     "equity": 0.92354
+     "equity": 0.89569
     },
     {
      "date": "2026-05-23",
-     "equity": 0.92354
+     "equity": 0.89569
     },
     {
      "date": "2026-05-24",
-     "equity": 0.92354
+     "equity": 0.89569
     },
     {
      "date": "2026-05-25",
-     "equity": 0.92354
+     "equity": 0.89569
     },
     {
      "date": "2026-05-26",
-     "equity": 0.93804
+     "equity": 0.90975
     },
     {
      "date": "2026-05-27",
-     "equity": 0.94789
+     "equity": 0.9193
     },
     {
      "date": "2026-05-28",
-     "equity": 0.97301
+     "equity": 0.94366
     },
     {
      "date": "2026-05-29",
-     "equity": 0.99919
+     "equity": 0.96905
     },
     {
      "date": "2026-05-30",
-     "equity": 0.99919
+     "equity": 0.96905
     },
     {
      "date": "2026-05-31",
-     "equity": 0.99919
+     "equity": 0.96905
     },
     {
      "date": "2026-06-01",
-     "equity": 0.96042
+     "equity": 0.93145
     },
     {
      "date": "2026-06-02",
-     "equity": 0.93228
+     "equity": 0.90416
     },
     {
      "date": "2026-06-03",
-     "equity": 0.87289
+     "equity": 0.84656
     },
     {
      "date": "2026-06-04",
-     "equity": 0.89428
+     "equity": 0.8673
     },
     {
      "date": "2026-06-05",
-     "equity": 0.85877
+     "equity": 0.83287
     },
     {
      "date": "2026-06-06",
-     "equity": 0.85877
+     "equity": 0.83287
     },
     {
      "date": "2026-06-07",
-     "equity": 0.85877
+     "equity": 0.83287
     },
     {
      "date": "2026-06-08",
-     "equity": 0.88119
+     "equity": 0.85461
     },
     {
      "date": "2026-06-09",
-     "equity": 0.86453
+     "equity": 0.83846
     },
     {
      "date": "2026-06-10",
-     "equity": 0.85779
+     "equity": 0.83192
     },
     {
      "date": "2026-06-11",
-     "equity": 0.91312
+     "equity": 0.88558
     },
     {
      "date": "2026-06-12",
-     "equity": 0.87093
+     "equity": 0.84466
     },
     {
      "date": "2026-06-13",
-     "equity": 0.87093
+     "equity": 0.84466
     },
     {
      "date": "2026-06-14",
-     "equity": 0.87093
+     "equity": 0.84466
     },
     {
      "date": "2026-06-15",
-     "equity": 0.91997
+     "equity": 0.89222
     },
     {
      "date": "2026-06-16",
-     "equity": 0.9138
+     "equity": 0.88624
     },
     {
      "date": "2026-06-17",
-     "equity": 0.92157
+     "equity": 0.89377
     },
     {
      "date": "2026-06-18",
-     "equity": 0.92949
+     "equity": 0.90146
     },
     {
      "date": "2026-06-19",
-     "equity": 0.92949
+     "equity": 0.90146
     },
     {
      "date": "2026-06-20",
-     "equity": 0.92949
+     "equity": 0.90146
     },
     {
      "date": "2026-06-21",
-     "equity": 0.92949
+     "equity": 0.90146
     },
     {
      "date": "2026-06-22",
-     "equity": 0.88804
+     "equity": 0.86125
     },
     {
      "date": "2026-06-23",
-     "equity": 0.87587
+     "equity": 0.84945
     },
     {
      "date": "2026-06-24",
-     "equity": 0.85257
+     "equity": 0.82686
     },
     {
      "date": "2026-06-25",
-     "equity": 0.81949
+     "equity": 0.79478
     },
     {
      "date": "2026-06-26",
-     "equity": 0.8526
+     "equity": 0.82689
     },
     {
      "date": "2026-06-27",
-     "equity": 0.8526
+     "equity": 0.82689
     },
     {
      "date": "2026-06-28",
-     "equity": 0.8526
+     "equity": 0.82689
     },
     {
      "date": "2026-06-29",
-     "equity": 0.89387
+     "equity": 0.86691
     },
     {
      "date": "2026-06-30",
-     "equity": 0.90424
+     "equity": 0.87696
     },
     {
      "date": "2026-07-01",
-     "equity": 0.9499
+     "equity": 0.92125
     },
     {
      "date": "2026-07-02",
-     "equity": 0.96795
+     "equity": 0.93875
     },
     {
      "date": "2026-07-03",
-     "equity": 0.96795
+     "equity": 0.93875
     },
     {
      "date": "2026-07-04",
-     "equity": 0.96795
+     "equity": 0.93875
     },
     {
      "date": "2026-07-05",
-     "equity": 0.96795
+     "equity": 0.93875
     },
     {
      "date": "2026-07-06",
-     "equity": 0.98944
+     "equity": 0.95959
     },
     {
      "date": "2026-07-07",
-     "equity": 0.96025
+     "equity": 0.93129
     },
     {
      "date": "2026-07-08",
-     "equity": 0.93864
+     "equity": 0.91033
     },
     {
      "date": "2026-07-09",
-     "equity": 0.93104
+     "equity": 0.90296
     },
     {
      "date": "2026-07-10",
-     "equity": 0.91437
+     "equity": 0.8868
     },
     {
      "date": "2026-07-11",
-     "equity": 0.91437
+     "equity": 0.8868
     },
     {
      "date": "2026-07-12",
-     "equity": 0.91437
+     "equity": 0.8868
     },
     {
      "date": "2026-07-13",
-     "equity": 0.90797
+     "equity": 0.88059
     },
     {
      "date": "2026-07-14",
-     "equity": 0.92849
+     "equity": 0.90049
     },
     {
      "date": "2026-07-15",
-     "equity": 0.92422
+     "equity": 0.89635
     },
     {
      "date": "2026-07-16",
-     "equity": 0.87542
+     "equity": 0.84902
     },
     {
      "date": "2026-07-17",
-     "equity": 0.88103
+     "equity": 0.85445
     },
     {
      "date": "2026-07-18",
-     "equity": 0.88103
+     "equity": 0.85445
     },
     {
      "date": "2026-07-19",
-     "equity": 0.88103
+     "equity": 0.85445
     },
     {
      "date": "2026-07-20",
-     "equity": 0.88067
+     "equity": 0.85411
     },
     {
      "date": "2026-07-21",
-     "equity": 0.89344
+     "equity": 0.8665
     },
     {
      "date": "2026-07-22",
-     "equity": 0.84931
+     "equity": 0.82369
     },
     {
      "date": "2026-07-23",
-     "equity": 0.83818
+     "equity": 0.8129
     },
     {
      "date": "2026-07-24",
-     "equity": 0.80507
+     "equity": 0.78079
     },
     {
      "date": "2026-07-25",
-     "equity": 0.80507
+     "equity": 0.78079
     },
     {
      "date": "2026-07-26",
-     "equity": 0.80507
+     "equity": 0.78079
     },
     {
      "date": "2026-07-27",
-     "equity": 0.84259
+     "equity": 0.81718
     },
     {
      "date": "2026-07-28",
-     "equity": 0.82675
+     "equity": 0.80181
     },
     {
      "date": "2026-07-29",
-     "equity": 0.75391
+     "equity": 0.73117
     },
     {
      "date": "2026-07-30",
-     "equity": 0.78166
+     "equity": 0.75808
     },
     {
      "date": "2026-07-31",
-     "equity": 0.78431
+     "equity": 0.76066
     },
     {
      "date": "2026-08-01",
-     "equity": 0.78431
+     "equity": 0.76066
     },
     {
      "date": "2026-08-02",
-     "equity": 0.78431
+     "equity": 0.76066
     },
     {
      "date": "2026-08-03",
-     "equity": 0.86228
+     "equity": 0.83627
     },
     {
      "date": "2026-08-04",
-     "equity": 0.90591
+     "equity": 0.87858
     },
     {
      "date": "2026-08-05",
-     "equity": 0.87773
+     "equity": 0.85126
     },
     {
      "date": "2026-08-06",
-     "equity": 0.87334
+     "equity": 0.847
     },
     {
      "date": "2026-08-07",
-     "equity": 0.92854
+     "equity": 0.90053
     },
     {
      "date": "2026-08-08",
-     "equity": 0.92854
+     "equity": 0.90053
     },
     {
      "date": "2026-08-09",
-     "equity": 0.92854
+     "equity": 0.90053
     },
     {
      "date": "2026-08-10",
-     "equity": 0.92037
+     "equity": 0.89261
     },
     {
      "date": "2026-08-11",
-     "equity": 0.92423
+     "equity": 0.89636
     },
     {
      "date": "2026-08-12",
-     "equity": 0.91407
+     "equity": 0.8865
     },
     {
      "date": "2026-08-13",
-     "equity": 0.93838
+     "equity": 0.91008
     },
     {
      "date": "2026-08-14",
-     "equity": 0.91614
+     "equity": 0.88851
     },
     {
      "date": "2026-08-15",
-     "equity": 0.91614
+     "equity": 0.88851
     },
     {
      "date": "2026-08-16",
-     "equity": 0.91614
+     "equity": 0.88851
     },
     {
      "date": "2026-08-17",
-     "equity": 0.90542
+     "equity": 0.87811
     },
     {
      "date": "2026-08-18",
-     "equity": 0.89565
+     "equity": 0.86863
     },
     {
      "date": "2026-08-19",
-     "equity": 0.93237
+     "equity": 0.90424
     },
     {
      "date": "2026-08-20",
-     "equity": 0.9237
+     "equity": 0.89583
     },
     {
      "date": "2026-08-21",
-     "equity": 0.96341
+     "equity": 0.93436
     },
     {
      "date": "2026-08-22",
-     "equity": 0.96341
+     "equity": 0.93436
     },
     {
      "date": "2026-08-23",
-     "equity": 0.96341
+     "equity": 0.93436
     },
     {
      "date": "2026-08-24",
-     "equity": 0.93663
+     "equity": 0.90838
     },
     {
      "date": "2026-08-25",
-     "equity": 0.93991
+     "equity": 0.91156
     },
     {
      "date": "2026-08-26",
-     "equity": 0.93474
+     "equity": 0.90655
     },
     {
      "date": "2026-08-27",
-     "equity": 0.95465
+     "equity": 0.92586
     },
     {
      "date": "2026-08-28",
-     "equity": 0.93603
+     "equity": 0.9078
     },
     {
      "date": "2026-08-29",
-     "equity": 0.93603
+     "equity": 0.9078
     },
     {
      "date": "2026-08-30",
-     "equity": 0.93603
+     "equity": 0.9078
     },
     {
      "date": "2026-08-31",
-     "equity": 0.94137
+     "equity": 0.91298
     },
     {
      "date": "2026-09-01",
-     "equity": 0.9217
+     "equity": 0.8939
     },
     {
      "date": "2026-09-02",
-     "equity": 0.9204
+     "equity": 0.89264
     },
     {
      "date": "2026-09-03",
-     "equity": 0.95694
+     "equity": 0.92808
     },
     {
      "date": "2026-09-04",
-     "equity": 0.9334
+     "equity": 0.90525
     },
     {
      "date": "2026-09-05",
-     "equity": 0.9334
+     "equity": 0.90525
     },
     {
      "date": "2026-09-06",
-     "equity": 0.9334
+     "equity": 0.90525
     },
     {
      "date": "2026-09-07",
-     "equity": 0.9334
+     "equity": 0.90525
     },
     {
      "date": "2026-09-08",
-     "equity": 0.91268
+     "equity": 0.88515
     },
     {
      "date": "2026-09-09",
-     "equity": 0.89023
+     "equity": 0.86338
     },
     {
      "date": "2026-09-10",
-     "equity": 0.88382
+     "equity": 0.85716
     },
     {
      "date": "2026-09-11",
-     "equity": 0.88727
+     "equity": 0.86051
     },
     {
      "date": "2026-09-12",
-     "equity": 0.88727
+     "equity": 0.86051
     },
     {
      "date": "2026-09-13",
-     "equity": 0.88727
+     "equity": 0.86051
     },
     {
      "date": "2026-09-14",
-     "equity": 0.91034
+     "equity": 0.88288
     },
     {
      "date": "2026-09-15",
-     "equity": 0.90096
+     "equity": 0.87379
     },
     {
      "date": "2026-09-16",
-     "equity": 0.89673
+     "equity": 0.86968
     },
     {
      "date": "2026-09-17",
-     "equity": 0.90336
+     "equity": 0.87611
     },
     {
      "date": "2026-09-18",
-     "equity": 0.90354
+     "equity": 0.87629
     },
     {
      "date": "2026-09-19",
-     "equity": 0.90354
+     "equity": 0.87629
     },
     {
      "date": "2026-09-20",
-     "equity": 0.90354
+     "equity": 0.87629
     },
     {
      "date": "2026-09-21",
-     "equity": 0.93724
+     "equity": 0.90898
     },
     {
      "date": "2026-09-22",
-     "equity": 0.94521
+     "equity": 0.9167
     },
     {
      "date": "2026-09-23",
-     "equity": 0.92754
+     "equity": 0.89956
     },
     {
      "date": "2026-09-24",
-     "equity": 0.94061
+     "equity": 0.91224
     },
     {
      "date": "2026-09-25",
-     "equity": 0.93309
+     "equity": 0.90494
     },
     {
      "date": "2026-09-26",
-     "equity": 0.93309
+     "equity": 0.90494
     },
     {
      "date": "2026-09-27",
-     "equity": 0.93309
+     "equity": 0.90494
     },
     {
      "date": "2026-09-28",
-     "equity": 0.91088
+     "equity": 0.88341
     },
     {
      "date": "2026-09-29",
-     "equity": 0.91644
+     "equity": 0.8888
     },
     {
      "date": "2026-09-30",
-     "equity": 0.92322
+     "equity": 0.89537
     },
     {
      "date": "2026-10-01",
-     "equity": 0.93245
+     "equity": 0.90433
     },
     {
      "date": "2026-10-02",
-     "equity": 0.92835
+     "equity": 0.90035
     },
     {
      "date": "2026-10-03",
-     "equity": 0.92835
+     "equity": 0.90035
     },
     {
      "date": "2026-10-04",
-     "equity": 0.92835
+     "equity": 0.90035
     },
     {
      "date": "2026-10-05",
-     "equity": 0.93633
+     "equity": 0.90809
     },
     {
      "date": "2026-10-06",
-     "equity": 0.93708
+     "equity": 0.90882
     },
     {
      "date": "2026-10-07",
-     "equity": 0.94186
+     "equity": 0.91345
     },
     {
      "date": "2026-10-08",
-     "equity": 0.93988
+     "equity": 0.91153
     },
     {
      "date": "2026-10-09",
-     "equity": 0.9708
+     "equity": 0.94152
     },
     {
      "date": "2026-10-10",
-     "equity": 0.9708
+     "equity": 0.94152
     },
     {
      "date": "2026-10-11",
-     "equity": 0.9708
+     "equity": 0.94152
     },
     {
      "date": "2026-10-12",
-     "equity": 0.95954
+     "equity": 0.9306
     },
     {
      "date": "2026-10-13",
-     "equity": 0.94947
-    },
-    {
-     "date": "2026-10-14",
-     "equity": 0.90636
-    },
-    {
-     "date": "2026-10-15",
-     "equity": 0.93845
-    },
-    {
-     "date": "2026-10-16",
-     "equity": 0.8995
-    },
-    {
-     "date": "2026-10-17",
-     "equity": 0.8995
-    },
-    {
-     "date": "2026-10-18",
-     "equity": 0.8995
-    },
-    {
-     "date": "2026-10-19",
-     "equity": 0.9058
-    },
-    {
-     "date": "2026-10-20",
      "equity": 0.92083
     },
     {
+     "date": "2026-10-14",
+     "equity": 0.87902
+    },
+    {
+     "date": "2026-10-15",
+     "equity": 0.91014
+    },
+    {
+     "date": "2026-10-16",
+     "equity": 0.87237
+    },
+    {
+     "date": "2026-10-17",
+     "equity": 0.87237
+    },
+    {
+     "date": "2026-10-18",
+     "equity": 0.87237
+    },
+    {
+     "date": "2026-10-19",
+     "equity": 0.87848
+    },
+    {
+     "date": "2026-10-20",
+     "equity": 0.89306
+    },
+    {
      "date": "2026-10-21",
-     "equity": 0.92912
+     "equity": 0.9011
     },
     {
      "date": "2026-10-22",
-     "equity": 0.91927
+     "equity": 0.89155
     },
     {
      "date": "2026-10-23",
-     "equity": 0.91183
+     "equity": 0.88433
+    },
+    {
+     "date": "2026-10-24",
+     "equity": 0.88433
     }
    ],
    "maxDrawdown400d": {
@@ -2255,7 +2255,7 @@
     "to": "2026-02-23"
    },
    "allocation": {
-    "date": "2026-10-25",
+    "date": "2026-10-26",
     "cashPct": 0.0,
     "cashOfTotalEquityPct": 0.0,
     "assets": [
@@ -2357,15 +2357,15 @@
      "fiveYearGain": 1.1289,
      "tenYearGain": 1.1289,
      "annualizedReturn": 0.21280001,
-     "riskScore": 2,
+     "riskScore": 0,
      "maxDailyRiskScore": 3,
      "maxMonthlyRiskScore": 2,
-     "copiers": 672,
+     "copiers": 677,
      "copiedTrades": 0,
      "copyTradesPct": 0.0,
      "copyInvestmentPct": 0.0,
-     "baseLineCopiers": 628,
-     "copiersGain": 0.0701,
+     "baseLineCopiers": 634,
+     "copiersGain": 0.0678,
      "virtualCopiers": 0,
      "dailyDD": -0.48,
      "weeklyDD": -0.26,
@@ -2390,9 +2390,9 @@
      "totalTradedInstruments": 24,
      "activeWeeks": 4,
      "firstActivity": "2026-10-01T00:00:00",
-     "lastActivity": "2026-10-24T00:00:00",
+     "lastActivity": "2026-10-25T00:00:00",
      "activeWeeksPct": 100.0,
-     "weeksSinceRegistration": 204
+     "weeksSinceRegistration": 205
     },
     "CurrQuarter": {
      "cid": 32250055,
@@ -2414,15 +2414,15 @@
      "fiveYearGain": 1.1289,
      "tenYearGain": 1.1289,
      "annualizedReturn": 0.21280001,
-     "riskScore": 2,
+     "riskScore": 0,
      "maxDailyRiskScore": 3,
      "maxMonthlyRiskScore": 2,
-     "copiers": 672,
+     "copiers": 677,
      "copiedTrades": 0,
      "copyTradesPct": 0.0,
      "copyInvestmentPct": 0.0,
-     "baseLineCopiers": 628,
-     "copiersGain": 0.0701,
+     "baseLineCopiers": 634,
+     "copiersGain": 0.0678,
      "virtualCopiers": 0,
      "dailyDD": -0.48,
      "weeklyDD": -0.26,
@@ -2447,9 +2447,9 @@
      "totalTradedInstruments": 24,
      "activeWeeks": 4,
      "firstActivity": "2026-10-01T00:00:00",
-     "lastActivity": "2026-10-24T00:00:00",
+     "lastActivity": "2026-10-25T00:00:00",
      "activeWeeksPct": 100.0,
-     "weeksSinceRegistration": 204
+     "weeksSinceRegistration": 205
     },
     "SixMonthsAgo": {
      "cid": 32250055,
@@ -2471,15 +2471,15 @@
      "fiveYearGain": 1.1289,
      "tenYearGain": 1.1289,
      "annualizedReturn": 0.21280001,
-     "riskScore": 2,
+     "riskScore": 0,
      "maxDailyRiskScore": 4,
      "maxMonthlyRiskScore": 4,
-     "copiers": 672,
+     "copiers": 677,
      "copiedTrades": 0,
      "copyTradesPct": 0.0,
      "copyInvestmentPct": 0.0,
-     "baseLineCopiers": 628,
-     "copiersGain": 0.0701,
+     "baseLineCopiers": 634,
+     "copiersGain": 0.0678,
      "virtualCopiers": 0,
      "dailyDD": -1.73,
      "weeklyDD": -1.89,
@@ -2504,9 +2504,9 @@
      "totalTradedInstruments": 25,
      "activeWeeks": 30,
      "firstActivity": "2026-04-01T00:00:00",
-     "lastActivity": "2026-10-24T00:00:00",
+     "lastActivity": "2026-10-25T00:00:00",
      "activeWeeksPct": 100.0,
-     "weeksSinceRegistration": 204
+     "weeksSinceRegistration": 205
     },
     "CurrYear": {
      "cid": 32250055,
@@ -2527,15 +2527,15 @@
      "fiveYearGain": 1.1289,
      "tenYearGain": 1.1289,
      "annualizedReturn": 0.21280001,
-     "riskScore": 2,
+     "riskScore": 0,
      "maxDailyRiskScore": 4,
      "maxMonthlyRiskScore": 4,
-     "copiers": 672,
+     "copiers": 677,
      "copiedTrades": 0,
      "copyTradesPct": 0.0,
      "copyInvestmentPct": 0.0,
-     "baseLineCopiers": 628,
-     "copiersGain": 0.0701,
+     "baseLineCopiers": 634,
+     "copiersGain": 0.0678,
      "virtualCopiers": 0,
      "dailyDD": -2.01,
      "weeklyDD": -2.66,
@@ -2558,11 +2558,11 @@
      "topTradedAssetClassId": 5,
      "topTradedInstrumentPct": 6.94,
      "totalTradedInstruments": 26,
-     "activeWeeks": 43,
+     "activeWeeks": 44,
      "firstActivity": "2026-01-01T00:00:00",
-     "lastActivity": "2026-10-24T00:00:00",
+     "lastActivity": "2026-10-26T00:00:00",
      "activeWeeksPct": 100.0,
-     "weeksSinceRegistration": 204
+     "weeksSinceRegistration": 205
     },
     "OneYearAgo": {
      "cid": 32250055,
@@ -2583,15 +2583,15 @@
      "fiveYearGain": 1.1289,
      "tenYearGain": 1.1289,
      "annualizedReturn": 0.21280001,
-     "riskScore": 2,
+     "riskScore": 0,
      "maxDailyRiskScore": 4,
      "maxMonthlyRiskScore": 4,
-     "copiers": 672,
+     "copiers": 677,
      "copiedTrades": 0,
      "copyTradesPct": 0.0,
      "copyInvestmentPct": 0.0,
-     "baseLineCopiers": 628,
-     "copiersGain": 0.0701,
+     "baseLineCopiers": 634,
+     "copiersGain": 0.0678,
      "virtualCopiers": 0,
      "dailyDD": -2.01,
      "weeklyDD": -2.66,
@@ -2615,10 +2615,10 @@
      "topTradedInstrumentPct": 6.44,
      "totalTradedInstruments": 27,
      "activeWeeks": 53,
-     "firstActivity": "2025-10-24T00:00:00",
-     "lastActivity": "2026-10-24T00:00:00",
+     "firstActivity": "2025-10-26T00:00:00",
+     "lastActivity": "2026-10-26T00:00:00",
      "activeWeeksPct": 100.0,
-     "weeksSinceRegistration": 204
+     "weeksSinceRegistration": 205
     },
     "LastYear": {
      "cid": 32250055,
@@ -2639,15 +2639,15 @@
      "fiveYearGain": 1.1289,
      "tenYearGain": 1.1289,
      "annualizedReturn": 0.21280001,
-     "riskScore": 2,
+     "riskScore": 0,
      "maxDailyRiskScore": 4,
      "maxMonthlyRiskScore": 4,
-     "copiers": 672,
+     "copiers": 677,
      "copiedTrades": 0,
      "copyTradesPct": 0.0,
      "copyInvestmentPct": 0.0,
-     "baseLineCopiers": 628,
-     "copiersGain": 0.0701,
+     "baseLineCopiers": 634,
+     "copiersGain": 0.0678,
      "virtualCopiers": 0,
      "dailyDD": -3.24,
      "weeklyDD": -3.52,
@@ -2670,11 +2670,11 @@
      "topTradedAssetClassId": 5,
      "topTradedInstrumentPct": 5.85,
      "totalTradedInstruments": 29,
-     "activeWeeks": 95,
+     "activeWeeks": 96,
      "firstActivity": "2025-01-01T00:00:00",
-     "lastActivity": "2026-10-24T00:00:00",
+     "lastActivity": "2026-10-26T00:00:00",
      "activeWeeksPct": 100.0,
-     "weeksSinceRegistration": 204
+     "weeksSinceRegistration": 205
     },
     "LastTwoYears": {
      "cid": 32250055,
@@ -2695,15 +2695,15 @@
      "fiveYearGain": 1.1289,
      "tenYearGain": 1.1289,
      "annualizedReturn": 0.21280001,
-     "riskScore": 2,
+     "riskScore": 0,
      "maxDailyRiskScore": 4,
      "maxMonthlyRiskScore": 4,
-     "copiers": 672,
+     "copiers": 677,
      "copiedTrades": 0,
      "copyTradesPct": 0.0,
      "copyInvestmentPct": 0.0,
-     "baseLineCopiers": 628,
-     "copiersGain": 0.0701,
+     "baseLineCopiers": 634,
+     "copiersGain": 0.0678,
      "virtualCopiers": 0,
      "dailyDD": -3.37,
      "weeklyDD": -3.89,
@@ -2726,15 +2726,15 @@
      "topTradedAssetClassId": 5,
      "topTradedInstrumentPct": 5.82,
      "totalTradedInstruments": 30,
-     "activeWeeks": 105,
-     "firstActivity": "2024-10-24T00:00:00",
-     "lastActivity": "2026-10-24T00:00:00",
+     "activeWeeks": 106,
+     "firstActivity": "2024-10-26T00:00:00",
+     "lastActivity": "2026-10-26T00:00:00",
      "activeWeeksPct": 100.0,
-     "weeksSinceRegistration": 204
+     "weeksSinceRegistration": 205
     }
    },
    "copiers": {
-    "copiers": 672,
+    "copiers": 677,
     "aumTier": 5,
     "aumTierDesc": "$1M-$2M"
    },
@@ -2953,1604 +2953,1604 @@
    "totalGain": 1.129117,
    "equityCurve": [
     {
-     "date": "2025-09-19",
-     "equity": 0.997
-    },
-    {
      "date": "2025-09-20",
-     "equity": 0.997
+     "equity": 1.0
     },
     {
      "date": "2025-09-21",
-     "equity": 0.9967
+     "equity": 0.9997
     },
     {
      "date": "2025-09-22",
-     "equity": 0.99351
+     "equity": 0.9965
     },
     {
      "date": "2025-09-23",
-     "equity": 0.99361
+     "equity": 0.9966
     },
     {
      "date": "2025-09-24",
-     "equity": 0.99639
+     "equity": 0.99939
     },
     {
      "date": "2025-09-25",
-     "equity": 0.99022
+     "equity": 0.99319
     },
     {
      "date": "2025-09-26",
-     "equity": 0.99784
+     "equity": 1.00084
     },
     {
      "date": "2025-09-27",
-     "equity": 0.99784
+     "equity": 1.00084
     },
     {
      "date": "2025-09-28",
-     "equity": 0.99784
+     "equity": 1.00084
     },
     {
      "date": "2025-09-29",
-     "equity": 1.00143
+     "equity": 1.00445
     },
     {
      "date": "2025-09-30",
-     "equity": 1.00193
+     "equity": 1.00495
     },
     {
      "date": "2025-10-01",
-     "equity": 1.00193
+     "equity": 1.00495
     },
     {
      "date": "2025-10-02",
-     "equity": 1.00183
+     "equity": 1.00485
     },
     {
      "date": "2025-10-03",
-     "equity": 1.00514
+     "equity": 1.00816
     },
     {
      "date": "2025-10-04",
-     "equity": 1.00514
+     "equity": 1.00816
     },
     {
      "date": "2025-10-05",
-     "equity": 1.00383
+     "equity": 1.00685
     },
     {
      "date": "2025-10-06",
-     "equity": 1.00484
+     "equity": 1.00786
     },
     {
      "date": "2025-10-07",
-     "equity": 1.00172
+     "equity": 1.00474
     },
     {
      "date": "2025-10-08",
-     "equity": 1.00613
+     "equity": 1.00916
     },
     {
      "date": "2025-10-09",
-     "equity": 1.00814
+     "equity": 1.01117
     },
     {
      "date": "2025-10-10",
-     "equity": 1.0029
+     "equity": 1.00592
     },
     {
      "date": "2025-10-11",
-     "equity": 1.0029
+     "equity": 1.00592
     },
     {
      "date": "2025-10-12",
-     "equity": 1.0025
+     "equity": 1.00551
     },
     {
      "date": "2025-10-13",
-     "equity": 1.0017
+     "equity": 1.00471
     },
     {
      "date": "2025-10-14",
-     "equity": 1.0071
+     "equity": 1.01013
     },
     {
      "date": "2025-10-15",
-     "equity": 1.01194
+     "equity": 1.01498
     },
     {
      "date": "2025-10-16",
-     "equity": 1.01093
+     "equity": 1.01397
     },
     {
      "date": "2025-10-17",
-     "equity": 1.00931
+     "equity": 1.01235
     },
     {
      "date": "2025-10-18",
-     "equity": 1.00931
+     "equity": 1.01235
     },
     {
      "date": "2025-10-19",
-     "equity": 1.00921
+     "equity": 1.01224
     },
     {
      "date": "2025-10-20",
-     "equity": 1.01698
+     "equity": 1.02004
     },
     {
      "date": "2025-10-21",
-     "equity": 1.01627
+     "equity": 1.01933
     },
     {
      "date": "2025-10-22",
-     "equity": 1.01972
+     "equity": 1.02279
     },
     {
      "date": "2025-10-23",
-     "equity": 1.02125
+     "equity": 1.02433
     },
     {
      "date": "2025-10-24",
-     "equity": 1.02289
+     "equity": 1.02596
     },
     {
      "date": "2025-10-25",
-     "equity": 1.02289
+     "equity": 1.02596
     },
     {
      "date": "2025-10-26",
-     "equity": 1.02289
+     "equity": 1.02596
     },
     {
      "date": "2025-10-27",
-     "equity": 1.02964
+     "equity": 1.03274
     },
     {
      "date": "2025-10-28",
-     "equity": 1.03427
+     "equity": 1.03738
     },
     {
      "date": "2025-10-29",
-     "equity": 1.03334
+     "equity": 1.03645
     },
     {
      "date": "2025-10-30",
-     "equity": 1.0291
+     "equity": 1.0322
     },
     {
      "date": "2025-10-31",
-     "equity": 1.02427
+     "equity": 1.02735
     },
     {
      "date": "2025-11-01",
-     "equity": 1.02427
+     "equity": 1.02735
     },
     {
      "date": "2025-11-02",
-     "equity": 1.02406
+     "equity": 1.02714
     },
     {
      "date": "2025-11-03",
-     "equity": 1.02785
+     "equity": 1.03094
     },
     {
      "date": "2025-11-04",
-     "equity": 1.01994
+     "equity": 1.023
     },
     {
      "date": "2025-11-05",
-     "equity": 1.0231
+     "equity": 1.02618
     },
     {
      "date": "2025-11-06",
-     "equity": 1.02842
+     "equity": 1.03151
     },
     {
      "date": "2025-11-07",
-     "equity": 1.0276
+     "equity": 1.03069
     },
     {
      "date": "2025-11-08",
-     "equity": 1.0276
+     "equity": 1.03069
     },
     {
      "date": "2025-11-09",
-     "equity": 1.02677
+     "equity": 1.02986
     },
     {
      "date": "2025-11-10",
-     "equity": 1.03868
+     "equity": 1.04181
     },
     {
      "date": "2025-11-11",
-     "equity": 1.04949
+     "equity": 1.05264
     },
     {
      "date": "2025-11-12",
-     "equity": 1.0561
+     "equity": 1.05928
     },
     {
      "date": "2025-11-13",
-     "equity": 1.05462
+     "equity": 1.05779
     },
     {
      "date": "2025-11-14",
-     "equity": 1.04618
+     "equity": 1.04933
     },
     {
      "date": "2025-11-15",
-     "equity": 1.04618
+     "equity": 1.04933
     },
     {
      "date": "2025-11-16",
-     "equity": 1.04587
+     "equity": 1.04902
     },
     {
      "date": "2025-11-17",
-     "equity": 1.04127
+     "equity": 1.0444
     },
     {
      "date": "2025-11-18",
-     "equity": 1.02908
+     "equity": 1.03218
     },
     {
      "date": "2025-11-19",
-     "equity": 1.02775
+     "equity": 1.03084
     },
     {
      "date": "2025-11-20",
-     "equity": 1.03042
+     "equity": 1.03352
     },
     {
      "date": "2025-11-21",
-     "equity": 1.02661
+     "equity": 1.02969
     },
     {
      "date": "2025-11-22",
-     "equity": 1.02661
+     "equity": 1.02969
     },
     {
      "date": "2025-11-23",
-     "equity": 1.02619
+     "equity": 1.02928
     },
     {
      "date": "2025-11-24",
-     "equity": 1.03338
+     "equity": 1.03649
     },
     {
      "date": "2025-11-25",
-     "equity": 1.04433
+     "equity": 1.04747
     },
     {
      "date": "2025-11-26",
-     "equity": 1.0553
+     "equity": 1.05847
     },
     {
      "date": "2025-11-27",
-     "equity": 1.05625
+     "equity": 1.05943
     },
     {
      "date": "2025-11-28",
-     "equity": 1.05952
+     "equity": 1.06271
     },
     {
      "date": "2025-11-29",
-     "equity": 1.05952
+     "equity": 1.06271
     },
     {
      "date": "2025-11-30",
-     "equity": 1.05942
+     "equity": 1.0626
     },
     {
      "date": "2025-12-01",
-     "equity": 1.05995
+     "equity": 1.06313
     },
     {
      "date": "2025-12-02",
-     "equity": 1.0662
+     "equity": 1.06941
     },
     {
      "date": "2025-12-03",
-     "equity": 1.06684
+     "equity": 1.07005
     },
     {
      "date": "2025-12-04",
-     "equity": 1.07164
+     "equity": 1.07486
     },
     {
      "date": "2025-12-05",
-     "equity": 1.07218
+     "equity": 1.0754
     },
     {
      "date": "2025-12-06",
-     "equity": 1.07218
+     "equity": 1.0754
     },
     {
      "date": "2025-12-07",
-     "equity": 1.07207
+     "equity": 1.07529
     },
     {
      "date": "2025-12-08",
-     "equity": 1.07314
+     "equity": 1.07637
     },
     {
      "date": "2025-12-09",
-     "equity": 1.07368
+     "equity": 1.07691
     },
     {
      "date": "2025-12-10",
-     "equity": 1.07754
+     "equity": 1.08078
     },
     {
      "date": "2025-12-11",
-     "equity": 1.08185
+     "equity": 1.08511
     },
     {
      "date": "2025-12-12",
-     "equity": 1.07688
+     "equity": 1.08012
     },
     {
      "date": "2025-12-13",
-     "equity": 1.07688
+     "equity": 1.08012
     },
     {
      "date": "2025-12-14",
-     "equity": 1.07677
+     "equity": 1.08001
     },
     {
      "date": "2025-12-15",
-     "equity": 1.08409
+     "equity": 1.08735
     },
     {
      "date": "2025-12-16",
-     "equity": 1.07802
+     "equity": 1.08126
     },
     {
      "date": "2025-12-17",
-     "equity": 1.07931
+     "equity": 1.08256
     },
     {
      "date": "2025-12-18",
-     "equity": 1.08471
+     "equity": 1.08797
     },
     {
      "date": "2025-12-19",
-     "equity": 1.08807
+     "equity": 1.09135
     },
     {
      "date": "2025-12-20",
-     "equity": 1.08807
+     "equity": 1.09135
     },
     {
      "date": "2025-12-21",
-     "equity": 1.08807
+     "equity": 1.09135
     },
     {
      "date": "2025-12-22",
-     "equity": 1.09123
+     "equity": 1.09451
     },
     {
      "date": "2025-12-23",
-     "equity": 1.0945
+     "equity": 1.09779
     },
     {
      "date": "2025-12-24",
-     "equity": 1.09166
+     "equity": 1.09494
     },
     {
      "date": "2025-12-25",
-     "equity": 1.09187
+     "equity": 1.09516
     },
     {
      "date": "2025-12-26",
-     "equity": 1.09078
+     "equity": 1.09406
     },
     {
      "date": "2025-12-27",
-     "equity": 1.09078
+     "equity": 1.09406
     },
     {
      "date": "2025-12-28",
-     "equity": 1.09067
+     "equity": 1.09395
     },
     {
      "date": "2025-12-29",
-     "equity": 1.09296
+     "equity": 1.09625
     },
     {
      "date": "2025-12-30",
-     "equity": 1.09799
+     "equity": 1.10129
     },
     {
      "date": "2025-12-31",
-     "equity": 1.09162
+     "equity": 1.09491
     },
     {
      "date": "2026-01-01",
-     "equity": 1.09173
+     "equity": 1.09502
     },
     {
      "date": "2026-01-02",
-     "equity": 1.10047
+     "equity": 1.10378
     },
     {
      "date": "2026-01-03",
-     "equity": 1.10047
+     "equity": 1.10378
     },
     {
      "date": "2026-01-04",
-     "equity": 1.10003
+     "equity": 1.10334
     },
     {
      "date": "2026-01-05",
-     "equity": 1.1019
+     "equity": 1.10521
     },
     {
      "date": "2026-01-06",
-     "equity": 1.10311
+     "equity": 1.10643
     },
     {
      "date": "2026-01-07",
-     "equity": 1.09682
+     "equity": 1.10012
     },
     {
      "date": "2026-01-08",
-     "equity": 1.09726
+     "equity": 1.10056
     },
     {
      "date": "2026-01-09",
-     "equity": 1.09386
-    },
-    {
-     "date": "2026-01-10",
-     "equity": 1.09386
-    },
-    {
-     "date": "2026-01-11",
-     "equity": 1.09342
-    },
-    {
-     "date": "2026-01-12",
-     "equity": 1.09276
-    },
-    {
-     "date": "2026-01-13",
-     "equity": 1.08883
-    },
-    {
-     "date": "2026-01-14",
-     "equity": 1.10244
-    },
-    {
-     "date": "2026-01-15",
-     "equity": 1.0999
-    },
-    {
-     "date": "2026-01-16",
-     "equity": 1.0955
-    },
-    {
-     "date": "2026-01-17",
-     "equity": 1.0955
-    },
-    {
-     "date": "2026-01-18",
-     "equity": 1.09638
-    },
-    {
-     "date": "2026-01-19",
      "equity": 1.09715
     },
     {
+     "date": "2026-01-10",
+     "equity": 1.09715
+    },
+    {
+     "date": "2026-01-11",
+     "equity": 1.09671
+    },
+    {
+     "date": "2026-01-12",
+     "equity": 1.09605
+    },
+    {
+     "date": "2026-01-13",
+     "equity": 1.09211
+    },
+    {
+     "date": "2026-01-14",
+     "equity": 1.10576
+    },
+    {
+     "date": "2026-01-15",
+     "equity": 1.10321
+    },
+    {
+     "date": "2026-01-16",
+     "equity": 1.0988
+    },
+    {
+     "date": "2026-01-17",
+     "equity": 1.0988
+    },
+    {
+     "date": "2026-01-18",
+     "equity": 1.09968
+    },
+    {
+     "date": "2026-01-19",
+     "equity": 1.10045
+    },
+    {
      "date": "2026-01-20",
-     "equity": 1.08804
+     "equity": 1.09132
     },
     {
      "date": "2026-01-21",
-     "equity": 1.08717
+     "equity": 1.09044
     },
     {
      "date": "2026-01-22",
-     "equity": 1.09924
+     "equity": 1.10255
     },
     {
      "date": "2026-01-23",
-     "equity": 1.10111
+     "equity": 1.10442
     },
     {
      "date": "2026-01-24",
-     "equity": 1.10111
+     "equity": 1.10442
     },
     {
      "date": "2026-01-25",
-     "equity": 1.1021
+     "equity": 1.10542
     },
     {
      "date": "2026-01-26",
-     "equity": 1.10882
+     "equity": 1.11216
     },
     {
      "date": "2026-01-27",
-     "equity": 1.11536
+     "equity": 1.11872
     },
     {
      "date": "2026-01-28",
-     "equity": 1.11246
+     "equity": 1.11581
     },
     {
      "date": "2026-01-29",
-     "equity": 1.11168
+     "equity": 1.11503
     },
     {
      "date": "2026-01-30",
-     "equity": 1.10757
+     "equity": 1.1109
     },
     {
      "date": "2026-01-31",
-     "equity": 1.10757
+     "equity": 1.1109
     },
     {
      "date": "2026-02-01",
-     "equity": 1.10746
+     "equity": 1.11079
     },
     {
      "date": "2026-02-02",
-     "equity": 1.11189
+     "equity": 1.11524
     },
     {
      "date": "2026-02-03",
-     "equity": 1.10122
+     "equity": 1.10453
     },
     {
      "date": "2026-02-04",
-     "equity": 1.10595
+     "equity": 1.10928
     },
     {
      "date": "2026-02-05",
-     "equity": 1.09224
+     "equity": 1.09552
     },
     {
      "date": "2026-02-06",
-     "equity": 1.10425
+     "equity": 1.10758
     },
     {
      "date": "2026-02-07",
-     "equity": 1.10425
+     "equity": 1.10758
     },
     {
      "date": "2026-02-08",
-     "equity": 1.10425
+     "equity": 1.10758
     },
     {
      "date": "2026-02-09",
-     "equity": 1.10977
+     "equity": 1.11311
     },
     {
      "date": "2026-02-10",
-     "equity": 1.10911
+     "equity": 1.11245
     },
     {
      "date": "2026-02-11",
-     "equity": 1.11166
+     "equity": 1.115
     },
     {
      "date": "2026-02-12",
-     "equity": 1.10432
+     "equity": 1.10765
     },
     {
      "date": "2026-02-13",
-     "equity": 1.10498
+     "equity": 1.10831
     },
     {
      "date": "2026-02-14",
-     "equity": 1.10498
+     "equity": 1.10831
     },
     {
      "date": "2026-02-15",
-     "equity": 1.10476
+     "equity": 1.10809
     },
     {
      "date": "2026-02-16",
-     "equity": 1.10863
+     "equity": 1.11197
     },
     {
      "date": "2026-02-17",
-     "equity": 1.11473
+     "equity": 1.11808
     },
     {
      "date": "2026-02-18",
-     "equity": 1.11384
+     "equity": 1.11719
     },
     {
      "date": "2026-02-19",
-     "equity": 1.11205
+     "equity": 1.1154
     },
     {
      "date": "2026-02-20",
-     "equity": 1.11895
+     "equity": 1.12232
     },
     {
      "date": "2026-02-21",
-     "equity": 1.11895
+     "equity": 1.12232
     },
     {
      "date": "2026-02-22",
-     "equity": 1.12052
+     "equity": 1.12389
     },
     {
      "date": "2026-02-23",
-     "equity": 1.12108
+     "equity": 1.12445
     },
     {
      "date": "2026-02-24",
-     "equity": 1.12466
+     "equity": 1.12805
     },
     {
      "date": "2026-02-25",
-     "equity": 1.13827
+     "equity": 1.1417
     },
     {
      "date": "2026-02-26",
-     "equity": 1.13668
+     "equity": 1.1401
     },
     {
      "date": "2026-02-27",
-     "equity": 1.13281
+     "equity": 1.13622
     },
     {
      "date": "2026-02-28",
-     "equity": 1.13281
+     "equity": 1.13622
     },
     {
      "date": "2026-03-01",
-     "equity": 1.13032
+     "equity": 1.13372
     },
     {
      "date": "2026-03-02",
-     "equity": 1.12772
+     "equity": 1.13111
     },
     {
      "date": "2026-03-03",
-     "equity": 1.10505
+     "equity": 1.10838
     },
     {
      "date": "2026-03-04",
-     "equity": 1.11389
+     "equity": 1.11725
     },
     {
      "date": "2026-03-05",
-     "equity": 1.1071
+     "equity": 1.11043
     },
     {
      "date": "2026-03-06",
-     "equity": 1.10356
+     "equity": 1.10688
     },
     {
      "date": "2026-03-07",
-     "equity": 1.10356
+     "equity": 1.10688
     },
     {
      "date": "2026-03-08",
-     "equity": 1.0998
+     "equity": 1.10311
     },
     {
      "date": "2026-03-09",
-     "equity": 1.09662
+     "equity": 1.09992
     },
     {
      "date": "2026-03-10",
-     "equity": 1.10835
+     "equity": 1.11168
     },
     {
      "date": "2026-03-11",
-     "equity": 1.10092
+     "equity": 1.10424
     },
     {
      "date": "2026-03-12",
-     "equity": 1.0974
+     "equity": 1.1007
     },
     {
      "date": "2026-03-13",
-     "equity": 1.09597
+     "equity": 1.09927
     },
     {
      "date": "2026-03-14",
-     "equity": 1.09597
+     "equity": 1.09927
     },
     {
      "date": "2026-03-15",
-     "equity": 1.09696
+     "equity": 1.10026
     },
     {
      "date": "2026-03-16",
-     "equity": 1.10332
+     "equity": 1.10664
     },
     {
      "date": "2026-03-17",
-     "equity": 1.11623
+     "equity": 1.11959
     },
     {
      "date": "2026-03-18",
-     "equity": 1.10507
+     "equity": 1.10839
     },
     {
      "date": "2026-03-19",
-     "equity": 1.09954
+     "equity": 1.10285
     },
     {
      "date": "2026-03-20",
-     "equity": 1.08657
+     "equity": 1.08984
     },
     {
      "date": "2026-03-21",
-     "equity": 1.08657
+     "equity": 1.08984
     },
     {
      "date": "2026-03-22",
-     "equity": 1.08646
+     "equity": 1.08973
     },
     {
      "date": "2026-03-23",
-     "equity": 1.0933
+     "equity": 1.09659
     },
     {
      "date": "2026-03-24",
-     "equity": 1.10183
+     "equity": 1.10515
     },
     {
      "date": "2026-03-25",
-     "equity": 1.1047
+     "equity": 1.10802
     },
     {
      "date": "2026-03-26",
-     "equity": 1.09851
+     "equity": 1.10182
     },
     {
      "date": "2026-03-27",
-     "equity": 1.10159
+     "equity": 1.1049
     },
     {
      "date": "2026-03-28",
-     "equity": 1.10159
+     "equity": 1.1049
     },
     {
      "date": "2026-03-29",
-     "equity": 1.10049
+     "equity": 1.1038
     },
     {
      "date": "2026-03-30",
-     "equity": 1.10544
+     "equity": 1.10876
     },
     {
      "date": "2026-03-31",
-     "equity": 1.11881
+     "equity": 1.12218
     },
     {
      "date": "2026-04-01",
-     "equity": 1.12452
+     "equity": 1.1279
     },
     {
      "date": "2026-04-02",
-     "equity": 1.12812
+     "equity": 1.13151
     },
     {
      "date": "2026-04-03",
-     "equity": 1.12676
+     "equity": 1.13015
     },
     {
      "date": "2026-04-04",
-     "equity": 1.12676
+     "equity": 1.13015
     },
     {
      "date": "2026-04-05",
-     "equity": 1.12654
+     "equity": 1.12993
     },
     {
      "date": "2026-04-06",
-     "equity": 1.12778
+     "equity": 1.13117
     },
     {
      "date": "2026-04-07",
-     "equity": 1.13488
+     "equity": 1.1383
     },
     {
      "date": "2026-04-08",
-     "equity": 1.14737
+     "equity": 1.15082
     },
     {
      "date": "2026-04-09",
-     "equity": 1.14897
+     "equity": 1.15243
     },
     {
      "date": "2026-04-10",
-     "equity": 1.15782
+     "equity": 1.1613
     },
     {
      "date": "2026-04-11",
-     "equity": 1.15782
+     "equity": 1.1613
     },
     {
      "date": "2026-04-12",
-     "equity": 1.15516
+     "equity": 1.15863
     },
     {
      "date": "2026-04-13",
-     "equity": 1.16532
+     "equity": 1.16883
     },
     {
      "date": "2026-04-14",
-     "equity": 1.17138
+     "equity": 1.17491
     },
     {
      "date": "2026-04-15",
-     "equity": 1.17337
+     "equity": 1.1769
     },
     {
      "date": "2026-04-16",
-     "equity": 1.17513
+     "equity": 1.17867
     },
     {
      "date": "2026-04-17",
-     "equity": 1.17831
+     "equity": 1.18185
     },
     {
      "date": "2026-04-18",
-     "equity": 1.17901
+     "equity": 1.18256
     },
     {
      "date": "2026-04-19",
-     "equity": 1.17795
+     "equity": 1.1815
     },
     {
      "date": "2026-04-20",
-     "equity": 1.17854
+     "equity": 1.18209
     },
     {
      "date": "2026-04-21",
-     "equity": 1.17265
+     "equity": 1.17618
     },
     {
      "date": "2026-04-22",
-     "equity": 1.16983
+     "equity": 1.17335
     },
     {
      "date": "2026-04-23",
-     "equity": 1.16399
+     "equity": 1.16749
     },
     {
      "date": "2026-04-24",
-     "equity": 1.16794
+     "equity": 1.17146
     },
     {
      "date": "2026-04-25",
-     "equity": 1.16794
+     "equity": 1.17146
     },
     {
      "date": "2026-04-26",
-     "equity": 1.16736
+     "equity": 1.17087
     },
     {
      "date": "2026-04-27",
-     "equity": 1.16491
+     "equity": 1.16841
     },
     {
      "date": "2026-04-28",
-     "equity": 1.16665
+     "equity": 1.17017
     },
     {
      "date": "2026-04-29",
-     "equity": 1.15919
+     "equity": 1.16268
     },
     {
      "date": "2026-04-30",
-     "equity": 1.16788
+     "equity": 1.1714
     },
     {
      "date": "2026-05-01",
-     "equity": 1.17127
+     "equity": 1.17479
     },
     {
      "date": "2026-05-02",
-     "equity": 1.17127
+     "equity": 1.17479
     },
     {
      "date": "2026-05-03",
-     "equity": 1.17162
+     "equity": 1.17515
     },
     {
      "date": "2026-05-04",
-     "equity": 1.16096
+     "equity": 1.16445
     },
     {
      "date": "2026-05-05",
-     "equity": 1.15887
+     "equity": 1.16236
     },
     {
      "date": "2026-05-06",
-     "equity": 1.16907
+     "equity": 1.17258
     },
     {
      "date": "2026-05-07",
-     "equity": 1.16158
+     "equity": 1.16508
     },
     {
      "date": "2026-05-08",
-     "equity": 1.16309
+     "equity": 1.16659
     },
     {
      "date": "2026-05-09",
-     "equity": 1.16309
+     "equity": 1.16659
     },
     {
      "date": "2026-05-10",
-     "equity": 1.16228
+     "equity": 1.16578
     },
     {
      "date": "2026-05-11",
-     "equity": 1.16612
+     "equity": 1.16962
     },
     {
      "date": "2026-05-12",
-     "equity": 1.15854
+     "equity": 1.16202
     },
     {
      "date": "2026-05-13",
-     "equity": 1.16502
+     "equity": 1.16853
     },
     {
      "date": "2026-05-14",
-     "equity": 1.17598
+     "equity": 1.17951
     },
     {
      "date": "2026-05-15",
-     "equity": 1.15563
+     "equity": 1.15911
     },
     {
      "date": "2026-05-16",
-     "equity": 1.15563
+     "equity": 1.15911
     },
     {
      "date": "2026-05-17",
-     "equity": 1.1554
+     "equity": 1.15888
     },
     {
      "date": "2026-05-18",
-     "equity": 1.16811
+     "equity": 1.17162
     },
     {
      "date": "2026-05-19",
-     "equity": 1.16484
+     "equity": 1.16834
     },
     {
      "date": "2026-05-20",
-     "equity": 1.17125
+     "equity": 1.17477
     },
     {
      "date": "2026-05-21",
-     "equity": 1.17394
+     "equity": 1.17747
     },
     {
      "date": "2026-05-22",
-     "equity": 1.17406
+     "equity": 1.17759
     },
     {
      "date": "2026-05-23",
-     "equity": 1.17406
+     "equity": 1.17759
     },
     {
      "date": "2026-05-24",
-     "equity": 1.1757
+     "equity": 1.17924
     },
     {
      "date": "2026-05-25",
-     "equity": 1.17793
+     "equity": 1.18148
     },
     {
      "date": "2026-05-26",
-     "equity": 1.17322
+     "equity": 1.17675
     },
     {
      "date": "2026-05-27",
-     "equity": 1.1656
+     "equity": 1.1691
     },
     {
      "date": "2026-05-28",
-     "equity": 1.16839
+     "equity": 1.17191
     },
     {
      "date": "2026-05-29",
-     "equity": 1.17435
+     "equity": 1.17789
     },
     {
      "date": "2026-05-30",
-     "equity": 1.17435
+     "equity": 1.17789
     },
     {
      "date": "2026-05-31",
-     "equity": 1.17388
+     "equity": 1.17741
     },
     {
      "date": "2026-06-01",
-     "equity": 1.16954
+     "equity": 1.17306
     },
     {
      "date": "2026-06-02",
-     "equity": 1.16626
+     "equity": 1.16977
     },
     {
      "date": "2026-06-03",
-     "equity": 1.1539
+     "equity": 1.15737
     },
     {
      "date": "2026-06-04",
-     "equity": 1.15702
+     "equity": 1.1605
     },
     {
      "date": "2026-06-05",
-     "equity": 1.1517
+     "equity": 1.15516
     },
     {
      "date": "2026-06-06",
-     "equity": 1.1517
+     "equity": 1.15516
     },
     {
      "date": "2026-06-07",
-     "equity": 1.15158
+     "equity": 1.15505
     },
     {
      "date": "2026-06-08",
-     "equity": 1.15227
+     "equity": 1.15574
     },
     {
      "date": "2026-06-09",
-     "equity": 1.15354
+     "equity": 1.15701
     },
     {
      "date": "2026-06-10",
-     "equity": 1.15608
+     "equity": 1.15956
     },
     {
      "date": "2026-06-11",
-     "equity": 1.16879
+     "equity": 1.17231
     },
     {
      "date": "2026-06-12",
-     "equity": 1.17627
+     "equity": 1.17981
     },
     {
      "date": "2026-06-13",
-     "equity": 1.17627
+     "equity": 1.17981
     },
     {
      "date": "2026-06-14",
-     "equity": 1.17792
+     "equity": 1.18146
     },
     {
      "date": "2026-06-15",
-     "equity": 1.18546
+     "equity": 1.18903
     },
     {
      "date": "2026-06-16",
-     "equity": 1.18202
+     "equity": 1.18558
     },
     {
      "date": "2026-06-17",
-     "equity": 1.17517
+     "equity": 1.1787
     },
     {
      "date": "2026-06-18",
-     "equity": 1.17188
+     "equity": 1.1754
     },
     {
      "date": "2026-06-19",
-     "equity": 1.1707
+     "equity": 1.17423
     },
     {
      "date": "2026-06-20",
-     "equity": 1.1707
+     "equity": 1.17423
     },
     {
      "date": "2026-06-21",
-     "equity": 1.17012
+     "equity": 1.17364
     },
     {
      "date": "2026-06-22",
-     "equity": 1.1693
+     "equity": 1.17282
     },
     {
      "date": "2026-06-23",
-     "equity": 1.16556
+     "equity": 1.16906
     },
     {
      "date": "2026-06-24",
-     "equity": 1.16521
+     "equity": 1.16871
     },
     {
      "date": "2026-06-25",
-     "equity": 1.1729
+     "equity": 1.17643
     },
     {
      "date": "2026-06-26",
-     "equity": 1.18123
+     "equity": 1.18478
     },
     {
      "date": "2026-06-27",
-     "equity": 1.18123
+     "equity": 1.18478
     },
     {
      "date": "2026-06-28",
-     "equity": 1.18099
+     "equity": 1.18454
     },
     {
      "date": "2026-06-29",
-     "equity": 1.18016
+     "equity": 1.18371
     },
     {
      "date": "2026-06-30",
-     "equity": 1.18063
+     "equity": 1.18419
     },
     {
      "date": "2026-07-01",
-     "equity": 1.18418
+     "equity": 1.18774
     },
     {
      "date": "2026-07-02",
-     "equity": 1.20147
+     "equity": 1.20508
     },
     {
      "date": "2026-07-03",
-     "equity": 1.20495
+     "equity": 1.20858
     },
     {
      "date": "2026-07-04",
-     "equity": 1.20495
+     "equity": 1.20858
     },
     {
      "date": "2026-07-05",
-     "equity": 1.20495
+     "equity": 1.20858
     },
     {
      "date": "2026-07-06",
-     "equity": 1.19929
+     "equity": 1.2029
     },
     {
      "date": "2026-07-07",
-     "equity": 1.19929
+     "equity": 1.2029
     },
     {
      "date": "2026-07-08",
-     "equity": 1.18813
+     "equity": 1.19171
     },
     {
      "date": "2026-07-09",
-     "equity": 1.19443
+     "equity": 1.19802
     },
     {
      "date": "2026-07-10",
-     "equity": 1.19754
+     "equity": 1.20114
     },
     {
      "date": "2026-07-11",
-     "equity": 1.19754
+     "equity": 1.20114
     },
     {
      "date": "2026-07-12",
-     "equity": 1.19706
+     "equity": 1.20066
     },
     {
      "date": "2026-07-13",
-     "equity": 1.19514
+     "equity": 1.19874
     },
     {
      "date": "2026-07-14",
-     "equity": 1.19932
+     "equity": 1.20293
     },
     {
      "date": "2026-07-15",
-     "equity": 1.20592
+     "equity": 1.20955
     },
     {
      "date": "2026-07-16",
-     "equity": 1.20628
+     "equity": 1.20991
     },
     {
      "date": "2026-07-17",
-     "equity": 1.20894
+     "equity": 1.21257
     },
     {
      "date": "2026-07-18",
-     "equity": 1.20894
+     "equity": 1.21257
     },
     {
      "date": "2026-07-19",
-     "equity": 1.20845
+     "equity": 1.21209
     },
     {
      "date": "2026-07-20",
-     "equity": 1.21268
+     "equity": 1.21633
     },
     {
      "date": "2026-07-21",
-     "equity": 1.21499
+     "equity": 1.21864
     },
     {
      "date": "2026-07-22",
-     "equity": 1.22094
+     "equity": 1.22461
     },
     {
      "date": "2026-07-23",
-     "equity": 1.20836
+     "equity": 1.212
     },
     {
      "date": "2026-07-24",
-     "equity": 1.21356
+     "equity": 1.21721
     },
     {
      "date": "2026-07-25",
-     "equity": 1.21356
+     "equity": 1.21721
     },
     {
      "date": "2026-07-26",
-     "equity": 1.21489
+     "equity": 1.21855
     },
     {
      "date": "2026-07-27",
-     "equity": 1.21951
+     "equity": 1.22318
     },
     {
      "date": "2026-07-28",
-     "equity": 1.22366
+     "equity": 1.22734
     },
     {
      "date": "2026-07-29",
-     "equity": 1.2217
+     "equity": 1.22538
     },
     {
      "date": "2026-07-30",
-     "equity": 1.22512
+     "equity": 1.22881
     },
     {
      "date": "2026-07-31",
-     "equity": 1.2272
+     "equity": 1.2309
     },
     {
      "date": "2026-08-01",
-     "equity": 1.2272
+     "equity": 1.2309
     },
     {
      "date": "2026-08-02",
-     "equity": 1.22757
+     "equity": 1.23127
     },
     {
      "date": "2026-08-03",
-     "equity": 1.23322
+     "equity": 1.23693
     },
     {
      "date": "2026-08-04",
-     "equity": 1.23494
+     "equity": 1.23866
     },
     {
      "date": "2026-08-05",
-     "equity": 1.23149
+     "equity": 1.23519
     },
     {
      "date": "2026-08-06",
-     "equity": 1.23296
+     "equity": 1.23667
     },
     {
      "date": "2026-08-07",
-     "equity": 1.23358
+     "equity": 1.23729
     },
     {
      "date": "2026-08-08",
-     "equity": 1.23358
+     "equity": 1.23729
     },
     {
      "date": "2026-08-09",
-     "equity": 1.23346
+     "equity": 1.23717
     },
     {
      "date": "2026-08-10",
-     "equity": 1.2247
+     "equity": 1.22839
     },
     {
      "date": "2026-08-11",
-     "equity": 1.21649
+     "equity": 1.22016
     },
     {
      "date": "2026-08-12",
-     "equity": 1.21382
+     "equity": 1.21747
     },
     {
      "date": "2026-08-13",
-     "equity": 1.22049
+     "equity": 1.22417
     },
     {
      "date": "2026-08-14",
-     "equity": 1.22318
+     "equity": 1.22686
     },
     {
      "date": "2026-08-15",
-     "equity": 1.22318
+     "equity": 1.22686
     },
     {
      "date": "2026-08-16",
-     "equity": 1.22342
+     "equity": 1.22711
     },
     {
      "date": "2026-08-17",
-     "equity": 1.21621
+     "equity": 1.21987
     },
     {
      "date": "2026-08-18",
-     "equity": 1.20988
+     "equity": 1.21352
     },
     {
      "date": "2026-08-19",
-     "equity": 1.21799
+     "equity": 1.22165
     },
     {
      "date": "2026-08-20",
-     "equity": 1.21848
+     "equity": 1.22214
     },
     {
      "date": "2026-08-21",
-     "equity": 1.22408
+     "equity": 1.22776
     },
     {
      "date": "2026-08-22",
-     "equity": 1.22408
+     "equity": 1.22776
     },
     {
      "date": "2026-08-23",
-     "equity": 1.22445
+     "equity": 1.22813
     },
     {
      "date": "2026-08-24",
-     "equity": 1.22249
+     "equity": 1.22617
     },
     {
      "date": "2026-08-25",
-     "equity": 1.2275
+     "equity": 1.23119
     },
     {
      "date": "2026-08-26",
-     "equity": 1.22419
+     "equity": 1.22787
     },
     {
      "date": "2026-08-27",
-     "equity": 1.22064
+     "equity": 1.22431
     },
     {
      "date": "2026-08-28",
-     "equity": 1.21392
+     "equity": 1.21758
     },
     {
      "date": "2026-08-29",
-     "equity": 1.21392
+     "equity": 1.21758
     },
     {
      "date": "2026-08-30",
-     "equity": 1.21404
+     "equity": 1.2177
     },
     {
      "date": "2026-08-31",
-     "equity": 1.21672
+     "equity": 1.22038
     },
     {
      "date": "2026-09-01",
-     "equity": 1.21051
+     "equity": 1.21415
     },
     {
      "date": "2026-09-02",
-     "equity": 1.21753
+     "equity": 1.22119
     },
     {
      "date": "2026-09-03",
-     "equity": 1.22715
+     "equity": 1.23084
     },
     {
      "date": "2026-09-04",
-     "equity": 1.2242
+     "equity": 1.22789
     },
     {
      "date": "2026-09-05",
-     "equity": 1.22396
+     "equity": 1.22764
     },
     {
      "date": "2026-09-06",
-     "equity": 1.22433
+     "equity": 1.22801
     },
     {
      "date": "2026-09-07",
-     "equity": 1.22384
+     "equity": 1.22752
     },
     {
      "date": "2026-09-08",
-     "equity": 1.22029
+     "equity": 1.22396
     },
     {
      "date": "2026-09-09",
-     "equity": 1.21114
+     "equity": 1.21478
     },
     {
      "date": "2026-09-10",
-     "equity": 1.21126
+     "equity": 1.2149
     },
     {
      "date": "2026-09-11",
-     "equity": 1.21392
+     "equity": 1.21757
     },
     {
      "date": "2026-09-12",
-     "equity": 1.2138
+     "equity": 1.21745
     },
     {
      "date": "2026-09-13",
-     "equity": 1.21368
+     "equity": 1.21733
     },
     {
      "date": "2026-09-14",
-     "equity": 1.20846
+     "equity": 1.2121
     },
     {
      "date": "2026-09-15",
-     "equity": 1.20616
+     "equity": 1.20979
     },
     {
      "date": "2026-09-16",
-     "equity": 1.20496
+     "equity": 1.20858
     },
     {
      "date": "2026-09-17",
-     "equity": 1.21146
+     "equity": 1.21511
     },
     {
      "date": "2026-09-18",
-     "equity": 1.19923
+     "equity": 1.20284
     },
     {
      "date": "2026-09-19",
-     "equity": 1.19959
+     "equity": 1.2032
     },
     {
      "date": "2026-09-20",
-     "equity": 1.19863
+     "equity": 1.20224
     },
     {
      "date": "2026-09-21",
-     "equity": 1.20402
+     "equity": 1.20765
     },
     {
      "date": "2026-09-22",
-     "equity": 1.20306
+     "equity": 1.20668
     },
     {
      "date": "2026-09-23",
-     "equity": 1.19151
+     "equity": 1.1951
     },
     {
      "date": "2026-09-24",
-     "equity": 1.19234
+     "equity": 1.19593
     },
     {
      "date": "2026-09-25",
-     "equity": 1.19866
+     "equity": 1.20227
     },
     {
      "date": "2026-09-26",
-     "equity": 1.19866
+     "equity": 1.20227
     },
     {
      "date": "2026-09-27",
-     "equity": 1.19818
+     "equity": 1.20179
     },
     {
      "date": "2026-09-28",
-     "equity": 1.20058
+     "equity": 1.20419
     },
     {
      "date": "2026-09-29",
-     "equity": 1.19314
+     "equity": 1.19673
     },
     {
      "date": "2026-09-30",
-     "equity": 1.18944
+     "equity": 1.19302
     },
     {
      "date": "2026-10-01",
-     "equity": 1.18373
+     "equity": 1.18729
     },
     {
      "date": "2026-10-02",
-     "equity": 1.18337
+     "equity": 1.18693
     },
     {
      "date": "2026-10-03",
-     "equity": 1.18337
+     "equity": 1.18693
     },
     {
      "date": "2026-10-04",
-     "equity": 1.18349
+     "equity": 1.18705
     },
     {
      "date": "2026-10-05",
-     "equity": 1.18645
+     "equity": 1.19002
     },
     {
      "date": "2026-10-06",
-     "equity": 1.18906
+     "equity": 1.19264
     },
     {
      "date": "2026-10-07",
-     "equity": 1.18763
+     "equity": 1.19121
     },
     {
      "date": "2026-10-08",
-     "equity": 1.18942
+     "equity": 1.19299
     },
     {
      "date": "2026-10-09",
-     "equity": 1.19096
+     "equity": 1.19455
     },
     {
      "date": "2026-10-10",
-     "equity": 1.19108
+     "equity": 1.19466
     },
     {
      "date": "2026-10-11",
-     "equity": 1.19108
+     "equity": 1.19466
     },
     {
      "date": "2026-10-12",
-     "equity": 1.19049
+     "equity": 1.19407
     },
     {
      "date": "2026-10-13",
-     "equity": 1.18965
+     "equity": 1.19323
     },
     {
      "date": "2026-10-14",
-     "equity": 1.19001
+     "equity": 1.19359
     },
     {
      "date": "2026-10-15",
-     "equity": 1.19167
+     "equity": 1.19526
     },
     {
      "date": "2026-10-16",
-     "equity": 1.19299
+     "equity": 1.19658
     },
     {
      "date": "2026-10-17",
-     "equity": 1.19299
+     "equity": 1.19658
     },
     {
      "date": "2026-10-18",
-     "equity": 1.19299
+     "equity": 1.19658
     },
     {
      "date": "2026-10-19",
-     "equity": 1.1906
+     "equity": 1.19418
     },
     {
      "date": "2026-10-20",
-     "equity": 1.19298
+     "equity": 1.19657
     },
     {
      "date": "2026-10-21",
-     "equity": 1.19346
+     "equity": 1.19705
     },
     {
      "date": "2026-10-22",
-     "equity": 1.19155
+     "equity": 1.19513
     },
     {
      "date": "2026-10-23",
-     "equity": 1.19024
+     "equity": 1.19382
+    },
+    {
+     "date": "2026-10-24",
+     "equity": 1.19382
     }
    ],
    "maxDrawdown400d": {
@@ -4559,9 +4559,9 @@
     "to": "2026-03-22"
    },
    "allocation": {
-    "date": "2026-10-25",
+    "date": "2026-10-26",
     "cashPct": 0.7606,
-    "cashOfTotalEquityPct": 0.7235,
+    "cashOfTotalEquityPct": 0.7233,
     "assets": [
      {
       "instrumentId": 1321,
@@ -4581,7 +4581,7 @@
       "instrumentId": 1330,
       "symbol": "IBE.MC",
       "name": "Iberdrola",
-      "valuePct": 0.0204,
+      "valuePct": 0.0205,
       "investedPct": 0.0136
      },
      {
@@ -4602,7 +4602,7 @@
       "instrumentId": 7622,
       "symbol": "TEF.MC",
       "name": "Telefonica SA",
-      "valuePct": 0.0165,
+      "valuePct": 0.0164,
       "investedPct": 0.0188
      },
      {
@@ -4669,6 +4669,13 @@
       "investedPct": 0.0151
      },
      {
+      "instrumentId": 3063,
+      "symbol": "IDEM.L",
+      "name": "iShares MSCI Emerging Markets UCITS ETF (Dist)",
+      "valuePct": 0.0087,
+      "investedPct": 0.01
+     },
+     {
       "instrumentId": 2353,
       "symbol": "00006.HK",
       "name": "Power Assets Holdings Ltd",
@@ -4681,13 +4688,6 @@
       "name": "Repsol",
       "valuePct": 0.0087,
       "investedPct": 0.003
-     },
-     {
-      "instrumentId": 3063,
-      "symbol": "IDEM.L",
-      "name": "iShares MSCI Emerging Markets UCITS ETF (Dist)",
-      "valuePct": 0.0087,
-      "investedPct": 0.01
      },
      {
       "instrumentId": 2370,
