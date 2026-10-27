@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-26T06:09:59+00:00",
+ "generatedAt": "2026-10-27T06:04:40+00:00",
  "source": "eToro Public API (datos públicos de perfil)",
  "users": [
   {
@@ -50,8 +50,8 @@
       "Finance"
      ],
      "gain": -0.0128,
-     "dailyGain": -0.0187,
-     "thisWeekGain": 0.0137,
+     "dailyGain": 0.0,
+     "thisWeekGain": 0.0,
      "fiveYearGain": 5.6886997,
      "tenYearGain": 5.6886997,
      "annualizedReturn": 0.74410003,
@@ -86,9 +86,9 @@
      "topTradedAssetClassId": 5,
      "topTradedInstrumentPct": 26.28,
      "totalTradedInstruments": 9,
-     "activeWeeks": 4,
+     "activeWeeks": 5,
      "firstActivity": "2026-10-01T00:00:00",
-     "lastActivity": "2026-10-25T00:00:00",
+     "lastActivity": "2026-10-26T00:00:00",
      "activeWeeksPct": 100.0,
      "weeksSinceRegistration": 177
     },
@@ -114,8 +114,8 @@
       "Finance"
      ],
      "gain": -0.0128,
-     "dailyGain": -0.0187,
-     "thisWeekGain": 0.0137,
+     "dailyGain": 0.0,
+     "thisWeekGain": 0.0,
      "fiveYearGain": 5.6886997,
      "tenYearGain": 5.6886997,
      "annualizedReturn": 0.74410003,
@@ -150,9 +150,9 @@
      "topTradedAssetClassId": 5,
      "topTradedInstrumentPct": 26.28,
      "totalTradedInstruments": 9,
-     "activeWeeks": 4,
+     "activeWeeks": 5,
      "firstActivity": "2026-10-01T00:00:00",
-     "lastActivity": "2026-10-25T00:00:00",
+     "lastActivity": "2026-10-26T00:00:00",
      "activeWeeksPct": 100.0,
      "weeksSinceRegistration": 177
     },
@@ -174,8 +174,8 @@
       "Technology Services"
      ],
      "gain": 0.15560001,
-     "dailyGain": -0.0187,
-     "thisWeekGain": 0.0137,
+     "dailyGain": 0.0,
+     "thisWeekGain": 0.0,
      "fiveYearGain": 5.6886997,
      "tenYearGain": 5.6886997,
      "annualizedReturn": 0.74410003,
@@ -210,9 +210,9 @@
      "topTradedAssetClassId": 5,
      "topTradedInstrumentPct": 24.95,
      "totalTradedInstruments": 18,
-     "activeWeeks": 30,
+     "activeWeeks": 31,
      "firstActivity": "2026-04-01T00:00:00",
-     "lastActivity": "2026-10-25T00:00:00",
+     "lastActivity": "2026-10-26T00:00:00",
      "activeWeeksPct": 100.0,
      "weeksSinceRegistration": 177
     },
@@ -234,8 +234,8 @@
       "Technology Services"
      ],
      "gain": -0.0706,
-     "dailyGain": -0.0187,
-     "thisWeekGain": 0.0137,
+     "dailyGain": 0.0,
+     "thisWeekGain": 0.0,
      "fiveYearGain": 5.6886997,
      "tenYearGain": 5.6886997,
      "annualizedReturn": 0.74410003,
@@ -293,9 +293,9 @@
       "Technology Services",
       "Finance"
      ],
-     "gain": -0.1114,
-     "dailyGain": -0.0187,
-     "thisWeekGain": 0.0137,
+     "gain": -0.122200005,
+     "dailyGain": 0.0,
+     "thisWeekGain": 0.0,
      "fiveYearGain": 5.6886997,
      "tenYearGain": 5.6886997,
      "annualizedReturn": 0.74410003,
@@ -354,8 +354,8 @@
       "Technology Services"
      ],
      "gain": 0.83919996,
-     "dailyGain": -0.0187,
-     "thisWeekGain": 0.0137,
+     "dailyGain": 0.0,
+     "thisWeekGain": 0.0,
      "fiveYearGain": 5.6886997,
      "tenYearGain": 5.6886997,
      "annualizedReturn": 0.74410003,
@@ -413,9 +413,9 @@
       "Finance",
       "Technology Services"
      ],
-     "gain": 2.2536001,
-     "dailyGain": -0.0187,
-     "thisWeekGain": 0.0137,
+     "gain": 2.0703,
+     "dailyGain": 0.0,
+     "thisWeekGain": 0.0,
      "fiveYearGain": 5.6886997,
      "tenYearGain": 5.6886997,
      "annualizedReturn": 0.74410003,
@@ -648,10 +648,6 @@
    ],
    "totalGain": 5.689077,
    "equityCurve": [
-    {
-     "date": "2025-09-20",
-     "equity": 1.0
-    },
     {
      "date": "2025-09-21",
      "equity": 1.0
@@ -2247,6 +2243,10 @@
     {
      "date": "2026-10-24",
      "equity": 0.88433
+    },
+    {
+     "date": "2026-10-25",
+     "equity": 0.88433
     }
    ],
    "maxDrawdown400d": {
@@ -2255,7 +2255,7 @@
     "to": "2026-02-23"
    },
    "allocation": {
-    "date": "2026-10-26",
+    "date": "2026-10-27",
     "cashPct": 0.0,
     "cashOfTotalEquityPct": 0.0,
     "assets": [
@@ -2263,50 +2263,57 @@
       "instrumentId": 7991,
       "symbol": "PLTR",
       "name": "Palantir Technologies Inc.",
-      "valuePct": 0.3354,
-      "investedPct": 0.1636
+      "valuePct": 0.3378,
+      "investedPct": 0.1653
      },
      {
       "instrumentId": 1150,
       "symbol": "LMND",
       "name": "Lemonade Inc.",
-      "valuePct": 0.2204,
-      "investedPct": 0.3065
-     },
-     {
-      "instrumentId": 9518,
-      "symbol": "HIMS",
-      "name": "Hims & Hers Health Inc",
-      "valuePct": 0.1425,
-      "investedPct": 0.1815
+      "valuePct": 0.2211,
+      "investedPct": 0.3098
      },
      {
       "instrumentId": 3434,
       "symbol": "CSPX.L",
       "name": "iShares Core S&P 500 UCITS ETF",
-      "valuePct": 0.1233,
-      "investedPct": 0.1696
+      "valuePct": 0.1237,
+      "investedPct": 0.1715
+     },
+     {
+      "instrumentId": 9518,
+      "symbol": "HIMS",
+      "name": "Hims & Hers Health Inc",
+      "valuePct": 0.1221,
+      "investedPct": 0.1455
      },
      {
       "instrumentId": 9272,
       "symbol": "HOOD",
       "name": "Robinhood Markets Inc.",
-      "valuePct": 0.078,
-      "investedPct": 0.0511
+      "valuePct": 0.0766,
+      "investedPct": 0.0516
      },
      {
       "instrumentId": 12218,
       "symbol": "WGLD.L",
       "name": "WisdomTree Core Physical Gold",
-      "valuePct": 0.0533,
-      "investedPct": 0.0757
+      "valuePct": 0.0536,
+      "investedPct": 0.0766
      },
      {
       "instrumentId": 8637,
       "symbol": "DUOL",
       "name": "Duolingo",
-      "valuePct": 0.0471,
-      "investedPct": 0.0521
+      "valuePct": 0.0455,
+      "investedPct": 0.0526
+     },
+     {
+      "instrumentId": 15618,
+      "symbol": "SPCX",
+      "name": "Space Exploration Technologies Corp",
+      "valuePct": 0.0196,
+      "investedPct": 0.0272
      }
     ]
    }
@@ -2351,21 +2358,21 @@
       "Utilities",
       "Finance"
      ],
-     "gain": 0.00059999997,
-     "dailyGain": -0.0026,
-     "thisWeekGain": -0.0023,
-     "fiveYearGain": 1.1289,
-     "tenYearGain": 1.1289,
-     "annualizedReturn": 0.21280001,
+     "gain": 0.00090000004,
+     "dailyGain": 0.00029999999,
+     "thisWeekGain": 0.00029999999,
+     "fiveYearGain": 1.1296,
+     "tenYearGain": 1.1296,
+     "annualizedReturn": 0.21290001,
      "riskScore": 0,
      "maxDailyRiskScore": 3,
      "maxMonthlyRiskScore": 2,
-     "copiers": 677,
+     "copiers": 695,
      "copiedTrades": 0,
      "copyTradesPct": 0.0,
      "copyInvestmentPct": 0.0,
-     "baseLineCopiers": 634,
-     "copiersGain": 0.0678,
+     "baseLineCopiers": 644,
+     "copiersGain": 0.0792,
      "virtualCopiers": 0,
      "dailyDD": -0.48,
      "weeklyDD": -0.26,
@@ -2388,9 +2395,9 @@
      "topTradedAssetClassId": 5,
      "topTradedInstrumentPct": 7.84,
      "totalTradedInstruments": 24,
-     "activeWeeks": 4,
+     "activeWeeks": 5,
      "firstActivity": "2026-10-01T00:00:00",
-     "lastActivity": "2026-10-25T00:00:00",
+     "lastActivity": "2026-10-26T00:00:00",
      "activeWeeksPct": 100.0,
      "weeksSinceRegistration": 205
     },
@@ -2408,21 +2415,21 @@
       "Utilities",
       "Finance"
      ],
-     "gain": 0.00059999997,
-     "dailyGain": -0.0026,
-     "thisWeekGain": -0.0023,
-     "fiveYearGain": 1.1289,
-     "tenYearGain": 1.1289,
-     "annualizedReturn": 0.21280001,
+     "gain": 0.00090000004,
+     "dailyGain": 0.00029999999,
+     "thisWeekGain": 0.00029999999,
+     "fiveYearGain": 1.1296,
+     "tenYearGain": 1.1296,
+     "annualizedReturn": 0.21290001,
      "riskScore": 0,
      "maxDailyRiskScore": 3,
      "maxMonthlyRiskScore": 2,
-     "copiers": 677,
+     "copiers": 695,
      "copiedTrades": 0,
      "copyTradesPct": 0.0,
      "copyInvestmentPct": 0.0,
-     "baseLineCopiers": 634,
-     "copiersGain": 0.0678,
+     "baseLineCopiers": 644,
+     "copiersGain": 0.0792,
      "virtualCopiers": 0,
      "dailyDD": -0.48,
      "weeklyDD": -0.26,
@@ -2445,9 +2452,9 @@
      "topTradedAssetClassId": 5,
      "topTradedInstrumentPct": 7.84,
      "totalTradedInstruments": 24,
-     "activeWeeks": 4,
+     "activeWeeks": 5,
      "firstActivity": "2026-10-01T00:00:00",
-     "lastActivity": "2026-10-25T00:00:00",
+     "lastActivity": "2026-10-26T00:00:00",
      "activeWeeksPct": 100.0,
      "weeksSinceRegistration": 205
     },
@@ -2465,21 +2472,21 @@
       "Utilities",
       "Finance"
      ],
-     "gain": 0.067600004,
-     "dailyGain": -0.0026,
-     "thisWeekGain": -0.0023,
-     "fiveYearGain": 1.1289,
-     "tenYearGain": 1.1289,
-     "annualizedReturn": 0.21280001,
+     "gain": 0.0679,
+     "dailyGain": 0.00029999999,
+     "thisWeekGain": 0.00029999999,
+     "fiveYearGain": 1.1296,
+     "tenYearGain": 1.1296,
+     "annualizedReturn": 0.21290001,
      "riskScore": 0,
      "maxDailyRiskScore": 4,
      "maxMonthlyRiskScore": 4,
-     "copiers": 677,
+     "copiers": 695,
      "copiedTrades": 0,
      "copyTradesPct": 0.0,
      "copyInvestmentPct": 0.0,
-     "baseLineCopiers": 634,
-     "copiersGain": 0.0678,
+     "baseLineCopiers": 644,
+     "copiersGain": 0.0792,
      "virtualCopiers": 0,
      "dailyDD": -1.73,
      "weeklyDD": -1.89,
@@ -2502,9 +2509,9 @@
      "topTradedAssetClassId": 5,
      "topTradedInstrumentPct": 7.4,
      "totalTradedInstruments": 25,
-     "activeWeeks": 30,
+     "activeWeeks": 31,
      "firstActivity": "2026-04-01T00:00:00",
-     "lastActivity": "2026-10-25T00:00:00",
+     "lastActivity": "2026-10-26T00:00:00",
      "activeWeeksPct": 100.0,
      "weeksSinceRegistration": 205
     },
@@ -2521,21 +2528,21 @@
      "sectorTags": [
       "Finance"
      ],
-     "gain": 0.0945,
-     "dailyGain": -0.0026,
-     "thisWeekGain": -0.0023,
-     "fiveYearGain": 1.1289,
-     "tenYearGain": 1.1289,
-     "annualizedReturn": 0.21280001,
+     "gain": 0.094799995,
+     "dailyGain": 0.00029999999,
+     "thisWeekGain": 0.00029999999,
+     "fiveYearGain": 1.1296,
+     "tenYearGain": 1.1296,
+     "annualizedReturn": 0.21290001,
      "riskScore": 0,
      "maxDailyRiskScore": 4,
      "maxMonthlyRiskScore": 4,
-     "copiers": 677,
+     "copiers": 695,
      "copiedTrades": 0,
      "copyTradesPct": 0.0,
      "copyInvestmentPct": 0.0,
-     "baseLineCopiers": 634,
-     "copiersGain": 0.0678,
+     "baseLineCopiers": 644,
+     "copiersGain": 0.0792,
      "virtualCopiers": 0,
      "dailyDD": -2.01,
      "weeklyDD": -2.66,
@@ -2577,21 +2584,21 @@
      "sectorTags": [
       "Finance"
      ],
-     "gain": 0.1701,
-     "dailyGain": -0.0026,
-     "thisWeekGain": -0.0023,
-     "fiveYearGain": 1.1289,
-     "tenYearGain": 1.1289,
-     "annualizedReturn": 0.21280001,
+     "gain": 0.16860001,
+     "dailyGain": 0.00029999999,
+     "thisWeekGain": 0.00029999999,
+     "fiveYearGain": 1.1296,
+     "tenYearGain": 1.1296,
+     "annualizedReturn": 0.21290001,
      "riskScore": 0,
      "maxDailyRiskScore": 4,
      "maxMonthlyRiskScore": 4,
-     "copiers": 677,
+     "copiers": 695,
      "copiedTrades": 0,
      "copyTradesPct": 0.0,
      "copyInvestmentPct": 0.0,
-     "baseLineCopiers": 634,
-     "copiersGain": 0.0678,
+     "baseLineCopiers": 644,
+     "copiersGain": 0.0792,
      "virtualCopiers": 0,
      "dailyDD": -2.01,
      "weeklyDD": -2.66,
@@ -2633,21 +2640,21 @@
      "sectorTags": [
       "Finance"
      ],
-     "gain": 0.4887,
-     "dailyGain": -0.0026,
-     "thisWeekGain": -0.0023,
-     "fiveYearGain": 1.1289,
-     "tenYearGain": 1.1289,
-     "annualizedReturn": 0.21280001,
+     "gain": 0.4892,
+     "dailyGain": 0.00029999999,
+     "thisWeekGain": 0.00029999999,
+     "fiveYearGain": 1.1296,
+     "tenYearGain": 1.1296,
+     "annualizedReturn": 0.21290001,
      "riskScore": 0,
      "maxDailyRiskScore": 4,
      "maxMonthlyRiskScore": 4,
-     "copiers": 677,
+     "copiers": 695,
      "copiedTrades": 0,
      "copyTradesPct": 0.0,
      "copyInvestmentPct": 0.0,
-     "baseLineCopiers": 634,
-     "copiersGain": 0.0678,
+     "baseLineCopiers": 644,
+     "copiersGain": 0.0792,
      "virtualCopiers": 0,
      "dailyDD": -3.24,
      "weeklyDD": -3.52,
@@ -2689,21 +2696,21 @@
      "sectorTags": [
       "Finance"
      ],
-     "gain": 0.48119998,
-     "dailyGain": -0.0026,
-     "thisWeekGain": -0.0023,
-     "fiveYearGain": 1.1289,
-     "tenYearGain": 1.1289,
-     "annualizedReturn": 0.21280001,
+     "gain": 0.492,
+     "dailyGain": 0.00029999999,
+     "thisWeekGain": 0.00029999999,
+     "fiveYearGain": 1.1296,
+     "tenYearGain": 1.1296,
+     "annualizedReturn": 0.21290001,
      "riskScore": 0,
      "maxDailyRiskScore": 4,
      "maxMonthlyRiskScore": 4,
-     "copiers": 677,
+     "copiers": 695,
      "copiedTrades": 0,
      "copyTradesPct": 0.0,
      "copyInvestmentPct": 0.0,
-     "baseLineCopiers": 634,
-     "copiersGain": 0.0678,
+     "baseLineCopiers": 644,
+     "copiersGain": 0.0792,
      "virtualCopiers": 0,
      "dailyDD": -3.37,
      "weeklyDD": -3.89,
@@ -2734,7 +2741,7 @@
     }
    },
    "copiers": {
-    "copiers": 677,
+    "copiers": 695,
     "aumTier": 5,
     "aumTierDesc": "$1M-$2M"
    },
@@ -2925,7 +2932,7 @@
     },
     {
      "month": "2026-10",
-     "gain": 0.0006
+     "gain": 0.0009
     }
    ],
    "yearly": [
@@ -2947,15 +2954,11 @@
     },
     {
      "year": "2026",
-     "gain": 0.094412
+     "gain": 0.094741
     }
    ],
-   "totalGain": 1.129117,
+   "totalGain": 1.129756,
    "equityCurve": [
-    {
-     "date": "2025-09-20",
-     "equity": 1.0
-    },
     {
      "date": "2025-09-21",
      "equity": 0.9997
@@ -4551,6 +4554,10 @@
     {
      "date": "2026-10-24",
      "equity": 1.19382
+    },
+    {
+     "date": "2026-10-25",
+     "equity": 1.19418
     }
    ],
    "maxDrawdown400d": {
@@ -4559,22 +4566,22 @@
     "to": "2026-03-22"
    },
    "allocation": {
-    "date": "2026-10-26",
-    "cashPct": 0.7606,
-    "cashOfTotalEquityPct": 0.7233,
+    "date": "2026-10-27",
+    "cashPct": 0.7563,
+    "cashOfTotalEquityPct": 0.7199,
     "assets": [
      {
       "instrumentId": 1321,
       "symbol": "DIA.MC",
       "name": "Distribuidora Internacional de Alimentacion SA",
-      "valuePct": 0.0219,
+      "valuePct": 0.0228,
       "investedPct": 0.0126
      },
      {
       "instrumentId": 1316,
       "symbol": "BBVA.MC",
       "name": "BBVA",
-      "valuePct": 0.0206,
+      "valuePct": 0.0212,
       "investedPct": 0.0092
      },
      {
@@ -4595,78 +4602,78 @@
       "instrumentId": 2049,
       "symbol": "LGEN.L",
       "name": "Legal & General",
-      "valuePct": 0.017,
+      "valuePct": 0.0172,
       "investedPct": 0.0138
      },
      {
       "instrumentId": 7622,
       "symbol": "TEF.MC",
       "name": "Telefonica SA",
-      "valuePct": 0.0164,
-      "investedPct": 0.0188
+      "valuePct": 0.0166,
+      "investedPct": 0.0201
      },
      {
       "instrumentId": 9270,
       "symbol": "DLO",
       "name": "dLocal Ltd.",
-      "valuePct": 0.0157,
+      "valuePct": 0.0151,
       "investedPct": 0.0132
      },
      {
       "instrumentId": 1484,
       "symbol": "PYPL",
       "name": "PayPal Holdings",
-      "valuePct": 0.0151,
+      "valuePct": 0.0144,
       "investedPct": 0.0158
      },
      {
       "instrumentId": 4307,
       "symbol": "O",
       "name": "Realty Income Corp",
-      "valuePct": 0.0132,
+      "valuePct": 0.0133,
       "investedPct": 0.0142
      },
      {
       "instrumentId": 1201,
       "symbol": "BAS.DE",
       "name": "BASF SE",
-      "valuePct": 0.012,
+      "valuePct": 0.0119,
       "investedPct": 0.0117
-     },
-     {
-      "instrumentId": 2599,
-      "symbol": "KVUE",
-      "name": "Kenvue Inc",
-      "valuePct": 0.0104,
-      "investedPct": 0.0091
      },
      {
       "instrumentId": 2014,
       "symbol": "BATS.L",
       "name": "British American Tobacco",
-      "valuePct": 0.0103,
+      "valuePct": 0.0105,
       "investedPct": 0.0085
      },
      {
       "instrumentId": 3040,
       "symbol": "SWDA.L",
       "name": "iShares Core MSCI World UCITS ETF",
-      "valuePct": 0.0102,
+      "valuePct": 0.0103,
       "investedPct": 0.0107
+     },
+     {
+      "instrumentId": 2599,
+      "symbol": "KVUE",
+      "name": "Kenvue Inc",
+      "valuePct": 0.0103,
+      "investedPct": 0.0091
      },
      {
       "instrumentId": 1334,
       "symbol": "MAP.MC",
       "name": "Mapfre",
-      "valuePct": 0.01,
+      "valuePct": 0.0098,
       "investedPct": 0.0062
      },
      {
-      "instrumentId": 12200,
-      "symbol": "ETOR",
-      "name": "eToro Group LTD",
+      "instrumentId": 2353,
+      "symbol": "00006.HK",
+      "name": "Power Assets Holdings Ltd",
       "valuePct": 0.0089,
-      "investedPct": 0.0151
+      "investedPct": 0.0092
      },
      {
       "instrumentId": 3063,
@@ -4676,13 +4683,6 @@
       "investedPct": 0.01
      },
      {
-      "instrumentId": 2353,
-      "symbol": "00006.HK",
-      "name": "Power Assets Holdings Ltd",
-      "valuePct": 0.0087,
-      "investedPct": 0.0093
-     },
-     {
       "instrumentId": 1339,
       "symbol": "REP.MC",
       "name": "Repsol",
@@ -4690,10 +4690,17 @@
       "investedPct": 0.003
      },
      {
+      "instrumentId": 12200,
+      "symbol": "ETOR",
+      "name": "eToro Group LTD",
+      "valuePct": 0.0087,
+      "investedPct": 0.0151
+     },
+     {
       "instrumentId": 2370,
       "symbol": "00857.HK",
       "name": "PetroChina Co Ltd",
-      "valuePct": 0.0076,
+      "valuePct": 0.0081,
       "investedPct": 0.0046
      },
      {
@@ -4711,18 +4718,18 @@
       "investedPct": 0.0043
      },
      {
+      "instrumentId": 2740,
+      "symbol": "BGEO.L",
+      "name": "Bank of Georgia Group PLC",
+      "valuePct": 0.0058,
+      "investedPct": 0.0063
+     },
+     {
       "instrumentId": 2316,
       "symbol": "2318.HK",
       "name": "Ping An Insurance",
       "valuePct": 0.0048,
       "investedPct": 0.0054
-     },
-     {
-      "instrumentId": 2740,
-      "symbol": "BGEO.L",
-      "name": "Bank of Georgia Group PLC",
-      "valuePct": 0.0028,
-      "investedPct": 0.0033
      },
      {
       "instrumentId": 2339,
